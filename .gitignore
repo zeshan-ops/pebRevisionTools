@@ -27,6 +27,8 @@ content/notes/source/
 # Node / Next
 node_modules/
 .next/
+*.tsbuildinfo
+next-env.d.ts
 *.db
 *.db-wal
 *.db-shm

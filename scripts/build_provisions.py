@@ -150,7 +150,11 @@ MANUAL = {
 }
 
 def hague_url():
-    return f"{WIPO}/285259"
+    # WIPO Lex "text" ids (used for Berne/Paris above) 404 for this treaty;
+    # the correct id is a "treaties/textdetails" one. Verified live 2026-09-01
+    # by scripts/check-links.mjs, which caught the original /text/285259 as a
+    # 404 affecting all 7 Hague citations.
+    return "https://www.wipo.int/wipolex/en/treaties/textdetails/12531"
 
 def build_entry(pid):
     # Hague articles
