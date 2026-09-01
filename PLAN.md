@@ -85,15 +85,24 @@ Link-checker script so dead links surface rather than rot. legislation.gov.uk de
 
 ## Build phases
 
-| Phase | Deliverable |
-|-------|-------------|
-| 0 | Scaffold: Next.js, TS, Tailwind, shadcn, design tokens, SQLite |
-| 1 | ~~Syllabus data + Provision registry~~ **done** — remaining: link checker, `/content` routes |
-| 2 | Extraction pipeline + review UI; 2022 paper ingested |
-| 3 | Content section: area pages merging prose + supplements + cards, card self-test, search |
-| 4 | Practice section: filters, progressive reveal, answer editor, mark scheme + examiner report |
-| 5 | Self-marking: checklist scoring, score display |
-| 6 | Polish |
+**Dependency order matters.** Phases 4-6 consume rows that only the Phase 2
+extraction pipeline produces (`question`, `sub_question`, `mark_scheme_item`).
+Starting them first means building against invented fixtures and reworking when
+the real shape lands. Phases 0, 1 and 3 have all their data already and can be
+built immediately.
+
+| Phase | Deliverable | Blocked by |
+|-------|-------------|------------|
+| 0 | Scaffold: Next.js, TS, Tailwind, shadcn, design tokens, SQLite | — |
+| 1 | ~~Syllabus data + Provision registry~~ **done** — remaining: link checker, `/content` routes | 0 |
+| 3 | Content section: area pages merging prose + supplements + cards, card self-test, search | 0, 1 |
+| 2 | Extraction pipeline + review UI; 2022-2024 papers ingested | 0 |
+| 4 | Practice section: filters, progressive reveal, answer editor, mark scheme + examiner report | 2 |
+| 5 | Self-marking: checklist scoring, score display | 4 |
+| 6 | Polish | all |
+
+Phases are listed in build order, not numeric order: **0 → 1 → 3**, then **2**,
+then **4 → 5 → 6**.
 
 ## Out of scope for MVP
 
