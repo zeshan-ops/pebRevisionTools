@@ -181,7 +181,7 @@ functional, not decorative: it renders as a visible ⚑ with the frontmatter
 `sources` list on hover, and there is a one-click **Mark verified** that writes
 back to the file's frontmatter.
 
-## Categorisation review queue## Categorisation review queue
+## Categorisation review queue
 
 `/review` lists sub-questions with `review_status = 'proposed'`, newest import
 first. Each row: question text, the model's proposed areas with confidence, and
