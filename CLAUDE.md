@@ -14,22 +14,37 @@ Greenfield. No code yet. Stack, architecture and feature set are being decided d
 
 ## Domain notes
 
-The PEB Foundation Certificate papers, as understood so far (**to be confirmed with the user — correct this section rather than working from a guess**):
+The PEB papers:
 
 | Paper | Subject |
 |-------|---------|
-| FC1 | Basic principles of UK patent law |
-| FC2 | English law and practice |
-| FC3 | Basic principles of UK trade mark and design law |
-| FC4 | Basic principles of drafting (patent specifications) |
-| FC5 | Basic principles of amendment of patent specifications |
-| FD1 | Advanced IP law and practice (Final Diploma) |
+| FC1 | UK Patent Law |
+| FC2 | English Law |
+| FC3 | International Patent Law |
+| FC4 | Design and Copyright Law |
+| FC5 | Trade Mark Law |
+| FD1 | Advanced IP Law and Practice (Final Diploma) |
 
-FC4 is a **drafting** paper: the candidate produces a patent specification (claims and description) from a client scenario and prior art, under time pressure, marked against an examiner's report. That shape — long-form written output judged against a mark scheme, rather than multiple choice — should drive the design.
+FC1–FC5 are the Foundation Certificate papers; FD1 is Final Diploma.
+
+**FC4 — Design and Copyright Law** is the first target. Its exam format, mark
+allocation and syllabus topics are not yet documented here: read the official
+PDFs in `exam-materials/` before making any design decision that depends on
+them, and record what you find in this section. Do not infer the format.
 
 ### Terminology
 
-Use the domain's own vocabulary in code and UI: *claim*, *independent/dependent claim*, *preamble*, *characterising portion*, *description*, *prior art*, *novelty*, *inventive step*, *added matter*, *examiner's report*, *mark scheme*, *past paper*.
+Use the domain's own vocabulary in code and UI. For FC4 that means *registered
+design*, *unregistered design right*, *supplementary unregistered design*,
+*copyright*, *authorship*, *ownership*, *term*, *infringement*, *exceptions and
+permitted acts*, *moral rights* — but confirm against the syllabus rather than
+this list.
+
+## Exam materials
+
+`exam-materials/` holds PEB-issued PDFs (syllabi, past papers, examiners'
+reports, guidance). The PDFs are gitignored — see that folder's README. They are
+the source of truth for anything about exam format or syllabus content.
 
 ## Working agreements
 

@@ -10,9 +10,9 @@
 .env
 .env.local
 
-# Exam material (PEB copyright) — keep local unless confirmed shareable
-/data/papers/
-/data/private/
+# Exam material (PEB copyright) — keep local unless confirmed shareable.
+# Delete the line below if the repo is private and you want the PDFs synced.
+exam-materials/**/*.pdf
 
 # Claude Code local settings
 .claude/settings.local.json
