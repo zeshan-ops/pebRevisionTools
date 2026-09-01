@@ -17,6 +17,10 @@ exam-materials/**/*.pdf
 # Derived exam content (extracted question/mark scheme text is PEB copyright)
 content/derived/
 
+# Source .docx notes stay local; the parsed cards (content/notes/*.json) are
+# tracked, since they are the user's own work.
+content/notes/source/
+
 # Python venv for the extraction scripts
 .venv/
 

@@ -1,0 +1,3818 @@
+{
+  "generatedBy": "scripts/parse_notes.py",
+  "cardCount": 168,
+  "cards": [
+    {
+      "question": "What is a design?",
+      "answer": [
+        {
+          "text": "\"design\" means the appearance of the whole or a part of a product resulting from the features of, in particular, the lines, contours, colours, shape, texture and/or materials of the product itself or its ornamentation.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-001"
+    },
+    {
+      "question": "What does it mean for a CDR to have “unitary character”?",
+      "answer": [
+        {
+          "text": "It shall have equal effect throughout the Community. It shall not be registered, transferred or surrendered or be the subject of a decision declaring it invalid, nor shall its use be prohibited, save in respect of the whole Community.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-002"
+    },
+    {
+      "question": "What are the requirements for a design to have community design protection?",
+      "answer": [
+        {
+          "text": "The design must:",
+          "bullet": false
+        },
+        {
+          "text": "Be new; and",
+          "bullet": true
+        },
+        {
+          "text": "Have individual Character.",
+          "bullet": true
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-003"
+    },
+    {
+      "question": "What are the requirements for a component part of a complex product to be considered to be new and have individual character?",
+      "answer": [
+        {
+          "text": "if the component part, once it has been incorporated into the complex product, remains visible during normal use of the complex product; and",
+          "bullet": true
+        },
+        {
+          "text": "those visible features of the component part fulfil the requirements to be new and have individual character.",
+          "bullet": true
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-004"
+    },
+    {
+      "question": "What is meant by “normal use”?",
+      "answer": [
+        {
+          "text": "Use by the end user, excluding maintenance, servicing or repair work.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-005"
+    },
+    {
+      "question": "When is a design considered to be new?",
+      "answer": [
+        {
+          "text": "A design shall be considered to be new if no identical design has been made available to the public before the relevant date,",
+          "bullet": false
+        },
+        {
+          "text": "for unregistered CDR, the relevant date is the date on which the design for which protection is claimed has first been made available to the public; or",
+          "bullet": true
+        },
+        {
+          "text": "for registered CDR, the relevant date is the date of filing of the application for registration of the design for which protection is claimed, or, if priority is claimed, the date of priority.",
+          "bullet": true
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-006"
+    },
+    {
+      "question": "What does it mean for designs to be identical?",
+      "answer": [
+        {
+          "text": "Designs are identical if their features differ only in immaterial details.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-007"
+    },
+    {
+      "question": "When does a design have individual character?",
+      "answer": [
+        {
+          "text": "When the overall impression it produces on the informed user differs from the overall impression produced on such a user by any design which has been made available to the public:",
+          "bullet": false
+        },
+        {
+          "text": "for unregistered CDR, before the date on which the design for which protection is claimed has first been made available to the public;",
+          "bullet": true
+        },
+        {
+          "text": "for registered CRD, before the date of filing the application for registration or, if a priority is claimed, the date of priority.",
+          "bullet": true
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-008"
+    },
+    {
+      "question": "What is taken into consideration when assessing individual character?",
+      "answer": [
+        {
+          "text": "The degree of freedom of the designer in developing the design.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-009"
+    },
+    {
+      "question": "How is the degree of freedom of the designer taken into consideration?",
+      "answer": [
+        {
+          "text": "where a designer's freedom is limited, small differences may be sufficient to create a different overall impression on the informed user",
+          "bullet": true
+        },
+        {
+          "text": "where designer's freedom is wide open, small differences are unlikely to produce a different overall impression",
+          "bullet": true
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-010"
+    },
+    {
+      "question": "What counts as a design being made available to the public?",
+      "answer": [
+        {
+          "text": "A design shall be deemed to have been made available to the public if it has been published following registration or otherwise, or exhibited, used in trade or otherwise disclosed, except where these events could not reasonably have become known in the normal course of business to the circles specialised in the sector concerned operating within the community (EEA).",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-011"
+    },
+    {
+      "question": "What are the exceptions to disclosure?",
+      "answer": [
+        {
+          "text": "A design has not been made available to the public where it has been disclosed to a third person under explicit or implicit conditions of confidentiality.",
+          "bullet": false
+        },
+        {
+          "text": "Grace Period:",
+          "bullet": false
+        },
+        {
+          "text": "A disclosure shall not be taken into consideration (for the purpose of assessing whether a design is new / has individual character) if a design for which protection is claimed under a registered Community design has been made available to the public:",
+          "bullet": false
+        },
+        {
+          "text": "by the designer, his successor in title, or a third person as a result of information provided or action taken by the designer or his successor in title; and",
+          "bullet": true
+        },
+        {
+          "text": "during the 12-month period preceding the date of filing of the application or, if a priority is claimed, the date of priority.",
+          "bullet": true
+        },
+        {
+          "text": "A disclosure shall not be taken into account if the design has been made available to the public as a consequence of an abuse in relation to the designer or his successor in title.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-012"
+    },
+    {
+      "question": "How does the grace period apply to unregistered community designs?",
+      "answer": [
+        {
+          "text": "It does not apply. Unregistered community design right requires first filing in the EU.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-013"
+    },
+    {
+      "question": "When can a design not be protected as a community design?",
+      "answer": [
+        {
+          "text": "A Community design shall not subsist in features of appearance of a product which are solely dictated by its technical function;",
+          "bullet": true
+        },
+        {
+          "text": "A Community design shall not subsist in features of appearance of a product which must be reproduced in their exact form and dimensions to permit the product in which the design is incorporated or to which it is applied to be mechanically connected to or placed in, around or against another product so that either product may perform its function; (However, a community design right may subsist in a design that allows the multiple assembly or connection of mutually interchangeable products within a modular system) and",
+          "bullet": true
+        },
+        {
+          "text": "A Community design shall not subsist in a design which is contrary to public policy or to accepted principles of morality;",
+          "bullet": true
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-014"
+    },
+    {
+      "question": "How do disclaimers work for EU design application?",
+      "answer": [
+        {
+          "text": "Disclaimers are not allowed.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-015"
+    },
+    {
+      "question": "What is the term of protection for an unregistered community design?",
+      "answer": [
+        {
+          "text": "Protection lasts three years as from the date on which the design was first made available to the public within the Community. This is interpreted as requiring the disclosure to be made within the EU.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-016"
+    },
+    {
+      "question": "What does it mean for a design to have been made available to the public within the community?",
+      "answer": [
+        {
+          "text": "A design shall be deemed to have been made available to the public within the Community if it has been published, exhibited, used in trade or otherwise disclosed in such a way that, in the normal course of business, these events could reasonably have become known to the circles specialised in the sector concerned, operating within the Community.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-017"
+    },
+    {
+      "question": "What is the maximum number of design that can be registered in a single application?",
+      "answer": [
+        {
+          "text": "There is no limit, but they must be in the same Locarno class.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-018"
+    },
+    {
+      "question": "What is the term of protection for a registered community design?",
+      "answer": [
+        {
+          "text": "A registered Community design is protected for a period of five years as from the date of the filing of the application. The right holder may have the term of protection renewed for one or more periods of five years each, up to a total term of 25 years from the date of filing.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-019"
+    },
+    {
+      "question": "Who owns the rights in a community design?",
+      "answer": [
+        {
+          "text": "The right to the Community design shall vest in the designer or his successor in title.",
+          "bullet": true
+        },
+        {
+          "text": "If two or more persons have jointly developed a design, the right to the Community design shall vest in them jointly.",
+          "bullet": true
+        },
+        {
+          "text": "Where a design is developed by an employee in the execution of his duties or following the instructions given by his employer, the right to the Community design shall vest in the employer, unless otherwise agreed or specified under national law.",
+          "bullet": true
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-020"
+    },
+    {
+      "question": "When is a registered community design infringed?",
+      "answer": [
+        {
+          "text": "When a person, without permission from the owner, uses, sells, imports or exports any product embodying the design or bearing the design, or any design which produces the same overall impression on the informed user.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-021"
+    },
+    {
+      "question": "What does it mean for a registered community design to provide a “monopoly right”?",
+      "answer": [
+        {
+          "text": "It means it prevents others from using the design, regardless of whether it was copied.",
+          "bullet": false
+        }
+      ],
+      "heading": "Community Design Rights",
+      "sourceFile": "ACD questions_CDR(8105690.1).docx",
+      "areas": [
+        "protection-of-designs-international",
+        "eu-designs-post-brexit"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-022"
+    },
+    {
+      "question": "What is the purpose of the Berne convention, and what is protected?",
+      "answer": [
+        {
+          "text": "To protect the rights of authors in their literary and artistic works.",
+          "bullet": false
+        },
+        {
+          "text": "“Literary and artistic works” shall include every production in the literary, scientific and artistic domain, whatever may be the mode or form of its expression, but works shall not be protected unless they have been fixed in some material form",
+          "bullet": false
+        }
+      ],
+      "heading": "Berne Convention",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "general-provisions-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-023"
+    },
+    {
+      "question": "What are the international rights resulting from copyright?",
+      "answer": [
+        {
+          "text": "Authors shall enjoy, in countries of the Union other than the country of origin, the rights which their respective laws grant to their nationals.",
+          "bullet": false
+        },
+        {
+          "text": "Exercise of these rights shall be independent of the existence of protection in the country of origin of the work.",
+          "bullet": false
+        }
+      ],
+      "heading": "Berne Convention",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "general-provisions-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-024"
+    },
+    {
+      "question": "How can a work qualify for copyright protection?",
+      "answer": [
+        {
+          "text": "Through the author, or",
+          "bullet": true
+        },
+        {
+          "text": "Through the country in which the work was first published",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-025"
+    },
+    {
+      "question": "How can work qualify for protection through the author?",
+      "answer": [
+        {
+          "text": "The author can be:",
+          "bullet": false
+        },
+        {
+          "text": "a British citizen;",
+          "bullet": true
+        },
+        {
+          "text": "an individual domiciled or resident in the UK; or",
+          "bullet": true
+        },
+        {
+          "text": "a body incorporated under the law of a part of the UK",
+          "bullet": true
+        },
+        {
+          "text": "Members of the WTO and countries party to the Berne convention have the same protection too.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-026"
+    },
+    {
+      "question": "How can work qualify for protection through first publication?",
+      "answer": [
+        {
+          "text": "When it is first published in the UK.",
+          "bullet": false
+        },
+        {
+          "text": "Members of the WTO and countries party to the Berne convention have the same protection too.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-027"
+    },
+    {
+      "question": "How does copyright come into effect?",
+      "answer": [
+        {
+          "text": "Copyright comes into effect automatically upon creation of the work.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-028"
+    },
+    {
+      "question": "What type of right is copyright, and in which types of work does it subsist?",
+      "answer": [
+        {
+          "text": "Copyright is a property right which subsists in —",
+          "bullet": false
+        },
+        {
+          "text": "original literary, dramatic, musical or artistic works,",
+          "bullet": true
+        },
+        {
+          "text": "sound recordings, films or broadcasts, and",
+          "bullet": true
+        },
+        {
+          "text": "the typographical arrangement of published editions",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-029"
+    },
+    {
+      "question": "What does it mean for work to be original?",
+      "answer": [
+        {
+          "text": "It has to be the author’s own intellectual creation (this is a low bar).",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-030"
+    },
+    {
+      "question": "What is meant by “typographical arrangement of published editions”?",
+      "answer": [
+        {
+          "text": "Typographical arrangement covers the style, composition, layout and general appearance of a page of a published work.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-031"
+    },
+    {
+      "question": "What is meant by a “literary work”?",
+      "answer": [
+        {
+          "text": "any work, other than a dramatic or musical work, which is written, spoken or sung. It includes tables, databases, computer programs and preparatory design materials for a computer program.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-032"
+    },
+    {
+      "question": "What is a “dramatic work”?",
+      "answer": [
+        {
+          "text": "Dramatic works include works of dance and mime.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-033"
+    },
+    {
+      "question": "What is a “musical work”?",
+      "answer": [
+        {
+          "text": "\"Musical work\" means any work consisting of music, excluding any words or actions",
+          "bullet": false
+        },
+        {
+          "text": "intended to be sung, spoken or performed with the music.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-034"
+    },
+    {
+      "question": "What are the requirements for copyright to subsist in a literary, dramatic or musical work?",
+      "answer": [
+        {
+          "text": "It needs to be recorded, in writing or otherwise.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-035"
+    },
+    {
+      "question": "What is meant by an “artistic work”?",
+      "answer": [
+        {
+          "text": "a graphic work, photograph, sculpture or collage, irrespective of artistic quality,",
+          "bullet": true
+        },
+        {
+          "text": "a work of architecture being a building or a model for a building, or",
+          "bullet": true
+        },
+        {
+          "text": "a work of artistic craftsmanship.",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-036"
+    },
+    {
+      "question": "What is a “building”?",
+      "answer": [
+        {
+          "text": "“Building” includes any fixed structure, and a part of a building or fixed structure.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-037"
+    },
+    {
+      "question": "What is a “graphic work”?",
+      "answer": [
+        {
+          "text": "any painting, drawing, diagram, map, chart and",
+          "bullet": true
+        },
+        {
+          "text": "any engraving, etching, lithograph or woodcut or similar work.",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-038"
+    },
+    {
+      "question": "What is a “photograph”?",
+      "answer": [
+        {
+          "text": "Recording of light or other radiation on any medium on which an image is produced or from which an image can be produced, and which is not part of a film. (As such, it doesn’t include computer-generated images).",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-039"
+    },
+    {
+      "question": "What is a “sculpture”?",
+      "answer": [
+        {
+          "text": "Sculpture has usual meaning and includes a cast or model made for the purposes of sculpture.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-040"
+    },
+    {
+      "question": "What is meant by the author of a work?",
+      "answer": [
+        {
+          "text": "The person who creates the work.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-041"
+    },
+    {
+      "question": "Who is the author for a sound recording?",
+      "answer": [
+        {
+          "text": "The producer.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-042"
+    },
+    {
+      "question": "Who is the author for a film?",
+      "answer": [
+        {
+          "text": "The producer and the principal director are joint authors.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-043"
+    },
+    {
+      "question": "Who is the author for a typographical arrangement of a published edition?",
+      "answer": [
+        {
+          "text": "The publisher.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-044"
+    },
+    {
+      "question": "Who is the author for a literary, dramatic, musical or artistic work which is computer generated?",
+      "answer": [
+        {
+          "text": "the person by whom the arrangements necessary for the creation of the work were undertaken.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-045"
+    },
+    {
+      "question": "Who is the first owner of copyright in a work?",
+      "answer": [
+        {
+          "text": "The author of the work, or",
+          "bullet": true
+        },
+        {
+          "text": "The employer when the work is made by an employee in the course of his employment.",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-046"
+    },
+    {
+      "question": "When does copyright expire for literary, dramatic, musical and artistic works?",
+      "answer": [
+        {
+          "text": "Copyright expires at the end of the period of 70 years from the end of the calendar year in which the author dies.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-047"
+    },
+    {
+      "question": "If the work is of unknown authorship, when does the copyright expire?",
+      "answer": [
+        {
+          "text": "at the end of the period of 70 years from the end of the calendar year in which the work was made, or",
+          "bullet": true
+        },
+        {
+          "text": "if during that period the work is made available to the public, at the end of the period of 70 years from the end of the calendar year in which it is first so made available",
+          "bullet": true
+        },
+        {
+          "text": "However, if the identity of the author becomes known before the end",
+          "bullet": false
+        },
+        {
+          "text": "of the periods above, then it becomes 70 years from the end of the calendar year in which the author dies, as usual.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-048"
+    },
+    {
+      "question": "When does copyright expire for a work where the country of origin of the work is not the UK and the author of the work is not a national of the UK?",
+      "answer": [
+        {
+          "text": "The duration of copyright is that to which the work is entitled in the country of origin, provided that does not exceed any of the periods given here.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-049"
+    },
+    {
+      "question": "When does copyright expire for a computer-generated work?",
+      "answer": [
+        {
+          "text": "50 years from the end of the calendar year in which the work was made.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-050"
+    },
+    {
+      "question": "Who has the right to be identified for their work?",
+      "answer": [
+        {
+          "text": "Author of a copyrighted literary, dramatic, artistic or musical work; or",
+          "bullet": true
+        },
+        {
+          "text": "The director of a copyrighted film.",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-051"
+    },
+    {
+      "question": "How does the right to be identified for copyright work relate to adaptations of a work?",
+      "answer": [
+        {
+          "text": "The right includes the right to be identified as the author of a work from which an adaptation was made whenever any of the events occur in relation to the adaptation of the work.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-052"
+    },
+    {
+      "question": "When does the author of a literary work (other than words intended to be sung/spoken with music) or a dramatic work have the right to be identified?",
+      "answer": [
+        {
+          "text": "when the work is published commercially, performed in public, or communicated to the public; or",
+          "bullet": true
+        },
+        {
+          "text": "when copies of a film or sound recording including the work are issued to the public;",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-053"
+    },
+    {
+      "question": "When does the author of a musical work, or a literary work consisting of words intended to be sung or spoken with music, have the right to be identified?",
+      "answer": [
+        {
+          "text": "when the work is published commercially;",
+          "bullet": true
+        },
+        {
+          "text": "when the copies of a sound recording of the work are issued to the public; or",
+          "bullet": true
+        },
+        {
+          "text": "when a film of which the sound-track includes the work is shown in public or copies of such a film are issued to the public.",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-054"
+    },
+    {
+      "question": "When does the author of an artistic work have the right to be identified?",
+      "answer": [
+        {
+          "text": "when the work is published commercially or exhibited in public, or a visual image of it is communicated to the public;",
+          "bullet": true
+        },
+        {
+          "text": "when a film including a visual image of the work is shown in public or copies of such a film are issued to the public; or",
+          "bullet": true
+        },
+        {
+          "text": "when, in the case of a work of architecture in the form of a building or a model for a building, a sculpture, or a work of artistic craftsmanship, copies of a graphic work representing it, or of a photograph of it, are issued to the public.",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-055"
+    },
+    {
+      "question": "When does the director of a film have the right to be identified?",
+      "answer": [
+        {
+          "text": "Whenever the film is shown in public or communicated to the public or copies of the film are issued to the public.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-056"
+    },
+    {
+      "question": "Who has the right not to have their work subjected to derogatory treatment?",
+      "answer": [
+        {
+          "text": "The author of a copyright literary, dramatic, musical or artistic work, and the director of a copyright film.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-057"
+    },
+    {
+      "question": "What is meant by “treatment of a work” and what is meant by “derogatory”?",
+      "answer": [
+        {
+          "text": "\"Treatment\" of a work means any addition to, deletion from or alteration to or adaptation of the work, other than--",
+          "bullet": false
+        },
+        {
+          "text": "a translation of a literary or dramatic work, or",
+          "bullet": true
+        },
+        {
+          "text": "an arrangement or transcription of a musical work involving no more than a change of key or register.",
+          "bullet": true
+        },
+        {
+          "text": "The treatment of a work is derogatory if it amounts to distortion or mutilation of the work or is otherwise prejudicial to the honour or reputation of the author or director.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-058"
+    },
+    {
+      "question": "When is the right to not have work subject to derogatory treatment infringed in the case of a literary, dramatic or musical work?",
+      "answer": [
+        {
+          "text": "When a person –",
+          "bullet": false
+        },
+        {
+          "text": "publishes commercially, performs in public or communicates to the public a derogatory treatment of the work; or",
+          "bullet": true
+        },
+        {
+          "text": "issues to the public copies of a film or sound recording of, or including, a derogatory treatment of the work.",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-059"
+    },
+    {
+      "question": "When is the right to not have work subject to derogatory treatment infringed in the case of an artistic work?",
+      "answer": [
+        {
+          "text": "When a person –",
+          "bullet": false
+        },
+        {
+          "text": "publishes commercially or exhibits in public a derogatory treatment of the work, or communicates to the public a visual image of a derogatory treatment of the work, or",
+          "bullet": true
+        },
+        {
+          "text": "shows in public a film including a visual image of a derogatory treatment of the work or issues to the public copies of such a film; and",
+          "bullet": true
+        },
+        {
+          "text": "for works of architecture, sculptures and artistic craftsmanship, issues to the public copies of a graphic work representing, or photograph of, a derogatory treatment of the work.",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-060"
+    },
+    {
+      "question": "In what ways can copyright be transferred?",
+      "answer": [
+        {
+          "text": "By assignment, by testamentary disposition (upon death) or by operation of law, as personal or moveable property.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-061"
+    },
+    {
+      "question": "How can a transfer of copyright be “partial”?",
+      "answer": [
+        {
+          "text": "It can give rights to do some, but not all, of the things the copyright owner has the exclusive right to do.",
+          "bullet": true
+        },
+        {
+          "text": "It can relate to part, but not all, of the period for which the copyright exists.",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-062"
+    },
+    {
+      "question": "How is joint authorship defined?",
+      "answer": [
+        {
+          "text": "A work produced by collaboration of two or more authors in which the contribution of each author is not distinct from that of the others.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-063"
+    },
+    {
+      "question": "What is meant by an exclusive license?",
+      "answer": [
+        {
+          "text": "An \"exclusive licence\" means a licence in writing signed by or on behalf of the copyright owner authorising the licensee to the exclusion of all other persons, including the person granting the licence, to exercise a right which would otherwise be exercisable exclusively by the copyright owner.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Overview",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "copyright-literary-artistic-works"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-064"
+    },
+    {
+      "question": "What rights does the owner of copyright have?",
+      "answer": [
+        {
+          "text": "He has the exclusive right in the UK to –",
+          "bullet": false
+        },
+        {
+          "text": "to copy the work",
+          "bullet": true
+        },
+        {
+          "text": "to issue copies of the work to the public",
+          "bullet": true
+        },
+        {
+          "text": "to rent or lend the work to the public",
+          "bullet": true
+        },
+        {
+          "text": "to perform, show or play the work in public",
+          "bullet": true
+        },
+        {
+          "text": "to communicate the work to the public (by electronic transmission)",
+          "bullet": true
+        },
+        {
+          "text": "to make an adaptation of the work or do any of the above in relation to an adaptation",
+          "bullet": true
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-065"
+    },
+    {
+      "question": "When is copyright infringed (primary)?",
+      "answer": [
+        {
+          "text": "When a person, without the licence of the copyright owner, does, or authorises another person to do, any of the acts which the owner has the exclusive right to do.",
+          "bullet": false
+        },
+        {
+          "text": "The acts infringe when they are done in relation to the whole, or a substantial part of, the work.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-066"
+    },
+    {
+      "question": "What is meant by a substantial part of the work?",
+      "answer": [
+        {
+          "text": "“Substantial” is assessed qualitatively not quantitatively  - i.e. football highlights may only show a fraction a football game, but they show the substantial parts.",
+          "bullet": false
+        },
+        {
+          "text": "It must be substantial with respect to the work in which the copyright exists, not the potentially infringing work.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-067"
+    },
+    {
+      "question": "What is meant by “copying the work” in relation to a literary, dramatic, musical and artistic works?",
+      "answer": [
+        {
+          "text": "Copying means reproducing the work in any material form. This includes storing the work in any medium by electronic means.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-068"
+    },
+    {
+      "question": "What does “copying” include for artistic works?",
+      "answer": [
+        {
+          "text": "Copying a 2D work into 3D, and copying a 3D work into 2D (e.g. photo of a sculpture).",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-069"
+    },
+    {
+      "question": "What does “copying” include for films and broadcasts?",
+      "answer": [
+        {
+          "text": "Making a photograph of the whole or a substantial part of any image forming part of the film/broadcast.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-070"
+    },
+    {
+      "question": "What is meant by “issuing copies of the work to the public”?",
+      "answer": [
+        {
+          "text": "Putting into circulation in the United Kingdom copies not previously put into circulation in the UK or the EEA by, or with the consent of, the copyright owner.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-071"
+    },
+    {
+      "question": "What is rental of a work?",
+      "answer": [
+        {
+          "text": "“rental” means making a copy of the work available for use, on terms that it will be returned, for economic or commercial advantage.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-072"
+    },
+    {
+      "question": "What is lending?",
+      "answer": [
+        {
+          "text": "“lending” means making a copy of the work available for use, on terms that it will be returned, otherwise than for economic or commercial advantage, through an establishment which is accessible to the public. (Does not include giving a DVD to a friend for the night etc).",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-073"
+    },
+    {
+      "question": "What counts as an adaptation for a literary work?",
+      "answer": [
+        {
+          "text": "A translation of the work.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-074"
+    },
+    {
+      "question": "What counts as an adaptation for a computer program?",
+      "answer": [
+        {
+          "text": "A \"translation\" includes a version of the program in which it is converted into or out of a computer language or code, or into a different computer language or code.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-075"
+    },
+    {
+      "question": "What counts as an adaptation for a musical work?",
+      "answer": [
+        {
+          "text": "An arrangement or transcription of the work.",
+          "bullet": false
+        },
+        {
+          "text": "Explain secondary infringement by importation.",
+          "bullet": false
+        },
+        {
+          "text": "Copyright in a work is infringed by a person who, without the licence of the copyright owner, imports into the UK, otherwise than for his private and domestic use, an article which is, and which he knows or has reason to believe is, an infringing copy of the work.",
+          "bullet": false
+        },
+        {
+          "text": "Explain secondary infringement by possession or dealing an infringing copy.",
+          "bullet": false
+        },
+        {
+          "text": "Copyright in a work is infringed by a person who, without the licence of the copyright",
+          "bullet": false
+        },
+        {
+          "text": "owner, -",
+          "bullet": false
+        },
+        {
+          "text": "possesses in the course of a business,",
+          "bullet": true
+        },
+        {
+          "text": "sells, lets for hire, or offers for sale or hire,",
+          "bullet": true
+        },
+        {
+          "text": "publicly distributes or exhibits in the course of a business, or",
+          "bullet": true
+        },
+        {
+          "text": "distributes, otherwise than in the course of a business, to an extent which prejudicially affects the owner of the copyright,",
+          "bullet": true
+        },
+        {
+          "text": "an article which is, and which he knows or has reason to believe is, an infringing copy of the work.",
+          "bullet": false
+        },
+        {
+          "text": "Explain secondary infringement by providing means for making infringing copies",
+          "bullet": false
+        },
+        {
+          "text": "Copyright in a work is infringed by a person who, without the licence of the copyright owner-",
+          "bullet": false
+        },
+        {
+          "text": "makes,",
+          "bullet": true
+        },
+        {
+          "text": "imports into the UK,",
+          "bullet": true
+        },
+        {
+          "text": "possesses in the course of a business, or",
+          "bullet": true
+        },
+        {
+          "text": "sells or lets for hire, or offers for sale or hire,",
+          "bullet": true
+        },
+        {
+          "text": "an article specifically designed or adapted for making copies of that work, knowing or having reason to believe that it is to be used to make infringing copies.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-076"
+    },
+    {
+      "question": "When is an article considered to be an “infringing copy”?",
+      "answer": [
+        {
+          "text": "An article is an infringing copy if its making constituted an infringement of the copyright in the work in question.",
+          "bullet": false
+        },
+        {
+          "text": "An article is also an infringing copy if-",
+          "bullet": false
+        },
+        {
+          "text": "it has been or is proposed to be imported into the United Kingdom, and",
+          "bullet": true
+        },
+        {
+          "text": "its making in the United Kingdom would have constituted an infringement of the copyright in the work in question.",
+          "bullet": true
+        },
+        {
+          "text": "Summarise the selected permitted acts which do not infringe copyright",
+          "bullet": false
+        },
+        {
+          "text": "The following acts are permitted –",
+          "bullet": false
+        },
+        {
+          "text": "Making of temporary copies;",
+          "bullet": true
+        },
+        {
+          "text": "Fair dealing with the work for research for a non-commercial purpose;",
+          "bullet": true
+        },
+        {
+          "text": "Fair dealing with the work for private study;",
+          "bullet": true
+        },
+        {
+          "text": "Fair dealing for purposes of criticism, review, quotation and news reporting;",
+          "bullet": true
+        },
+        {
+          "text": "Fair dealing for purposes of caricature, parody or pastiche;",
+          "bullet": true
+        },
+        {
+          "text": "Copying and use of extracts of works by educational establishments;",
+          "bullet": true
+        },
+        {
+          "text": "But all acts require fair dealing, and most require sufficient acknowledgment if possible.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-077"
+    },
+    {
+      "question": "If an act does not infringe a work which is an adaptation, what is the significance?",
+      "answer": [
+        {
+          "text": "The act cannot infringe the work form which the adaptation was made.",
+          "bullet": false
+        },
+        {
+          "text": "What the rules relating to infringement for copies of works transferred by electronic means? (e.g. buying a CD)",
+          "bullet": false
+        },
+        {
+          "text": "If there are no express terms to the contrary, anything which the purchaser of the work was entitled to do may also be done by a transferee.",
+          "bullet": false
+        },
+        {
+          "text": "Express or implied terms may enable a purchaser to make copies of a work or adapt a work.",
+          "bullet": false
+        }
+      ],
+      "heading": "Copyright Infringement",
+      "sourceFile": "ACD questions_Copyright(8105691.1).docx",
+      "areas": [
+        "infringement-of-copyright"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-078"
+    },
+    {
+      "question": "What is meant by a “design”?",
+      "answer": [
+        {
+          "text": "1(2)",
+          "bullet": false
+        },
+        {
+          "text": "A design means the appearance of the whole or a part of a product resulting from the features of, in particular, the lines, contours, colours, shape, texture or materials of the product or its ornamentation",
+          "bullet": false
+        },
+        {
+          "text": "(Ornamentation is recognised as referring to decorative elements applied to the surface of a product, and can be three-dimensional (as is the case with, for example, decorations carved in relief onto the surface of a wooden chair) or two-dimensional (as with decoration painted onto the surface of an ornament)).",
+          "bullet": false
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-079"
+    },
+    {
+      "question": "What are the requirements a design needs to meet to be registered?",
+      "answer": [
+        {
+          "text": "1(B)",
+          "bullet": false
+        },
+        {
+          "text": "It needs to be new and have individual character.",
+          "bullet": false
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-080"
+    },
+    {
+      "question": "Explain the requirements for a design to be considered “new”?",
+      "answer": [
+        {
+          "text": "A design is new if no identical design or no design whose features differ only in immaterial details has been made available to the public before the filing date.",
+          "bullet": false
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-081"
+    },
+    {
+      "question": "Explain the requirements for a design to be have “individual character”?",
+      "answer": [
+        {
+          "text": "A design has individual character if the overall impression it produces on the informed user differs from the overall impression produced on such a user by any design which has been made available to the public before the filing date.",
+          "bullet": false
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-082"
+    },
+    {
+      "question": "What is taken into consideration when determining individual character?",
+      "answer": [
+        {
+          "text": "The degree of freedom of the author in creating the design shall be taken into consideration.",
+          "bullet": false
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-083"
+    },
+    {
+      "question": "How does the degree of freedom of the author effect the assessment of whether a design has individual character?",
+      "answer": [
+        {
+          "text": "where a designer's freedom is limited, small differences may be sufficient to create a different overall impression on the informed user",
+          "bullet": true
+        },
+        {
+          "text": "where a designer's freedom is wide open, the same small differences are unlikely to result in a different overall impression",
+          "bullet": true
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-084"
+    },
+    {
+      "question": "What constitutes being “made available to the public”?",
+      "answer": [
+        {
+          "text": "Being published (following registration or otherwise), exhibited, used in trade or otherwise disclosed.",
+          "bullet": false
+        },
+        {
+          "text": "Unless:",
+          "bullet": false
+        },
+        {
+          "text": "The disclosure could not reasonably have become known before the filing date in the normal course of business to persons carrying on business in the geographical area comprising the United Kingdom and the European Economic Area and specialising in the sector concerned;",
+          "bullet": true
+        },
+        {
+          "text": "The disclosure was made to a person other than the designer, or any successor in title of his, under conditions of confidentiality (whether express or implied);",
+          "bullet": true
+        },
+        {
+          "text": "The disclosure was made by the designer, or any successor in title of his, during the period of 12 months immediately preceding the filing/priority date;",
+          "bullet": true
+        },
+        {
+          "text": "The disclosure was made by a person other than the designer, or any successor in title of his, during the period of 12 months immediately preceding the filing/priority date in consequence of information provided or other action taken by the designer or any successor in title of his; or",
+          "bullet": true
+        },
+        {
+          "text": "The disclosure was made during the period of 12 months immediately preceding the filing/priority date as a consequence of an abuse in relation to the designer or any successor in title of his.",
+          "bullet": true
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-085"
+    },
+    {
+      "question": "Can you apply the grace period and the priority period cumulatively to file an application 18 months after the first disclosure?",
+      "answer": [
+        {
+          "text": "No – the grace period is worked out based on the priority date.",
+          "bullet": false
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-086"
+    },
+    {
+      "question": "What is meant by a “complex product”?",
+      "answer": [
+        {
+          "text": "A product which is composed of at least two replaceable component parts",
+          "bullet": false
+        },
+        {
+          "text": "permitting disassembly and reassembly of the product.",
+          "bullet": false
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-087"
+    },
+    {
+      "question": "When can a component part of a complex product be considered to be new and have individual character?",
+      "answer": [
+        {
+          "text": "When -",
+          "bullet": false
+        },
+        {
+          "text": "(a) The component part, once it has been incorporated into the complex product, remains visible during normal use of the complex product; and",
+          "bullet": false
+        },
+        {
+          "text": "(b) Those visible features of the component part are in themselves new and have individual character.",
+          "bullet": false
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-088"
+    },
+    {
+      "question": "What constitutes “normal use”?",
+      "answer": [
+        {
+          "text": "Use by an end user, not including maintenance, repair work or servicing.",
+          "bullet": false
+        },
+        {
+          "text": "What are the limitations on design registration? (i.e. what is excluded)",
+          "bullet": false
+        },
+        {
+          "text": "1(C)",
+          "bullet": false
+        },
+        {
+          "text": "A registered design shall not subsist in features of appearance of a product which are solely dictated by the product’s technical function.",
+          "bullet": false
+        },
+        {
+          "text": "A right in a registered design shall not subsist in features of appearance of a product which must necessarily be reproduced in their exact form and dimensions so as to permit the product in which the design is incorporated or to which it is applied to be mechanically connected to, or placed in, around or against, another product so that either product may perform its function. However, this does not prevent a right subsisting in a design serving the purpose of allowing multiple assembly or connection of mutually interchangeable products within a modular system (e.g. LEGO).",
+          "bullet": false
+        },
+        {
+          "text": "1(D)",
+          "bullet": false
+        },
+        {
+          "text": "A registered design shall not subsist in a design which is contrary to public policy or to accepted principles of morality.",
+          "bullet": false
+        },
+        {
+          "text": "A registered design shall not subsist in a design includes:",
+          "bullet": false
+        },
+        {
+          "text": "the use of royal arms;",
+          "bullet": true
+        },
+        {
+          "text": "a representation of the queen or any member of the royal family",
+          "bullet": true
+        },
+        {
+          "text": "the Union Jack, or flag of England, Scotland or Wales where it would be misleading and grossly offensive",
+          "bullet": true
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-089"
+    },
+    {
+      "question": "Who is the original proprietor of a design?",
+      "answer": [
+        {
+          "text": "The Author (person who creates it), but, if the design is made by an employee in the course of his employment, the employer is the proprietor.",
+          "bullet": false
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-090"
+    },
+    {
+      "question": "If a design is generated by a computer, meaning there is no human author, who counts as the author?",
+      "answer": [
+        {
+          "text": "The person by whom the arrangements necessary for the creation of the design are made",
+          "bullet": false
+        }
+      ],
+      "heading": "Requirements and Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "registrable-designs",
+        "ownership-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-091"
+    },
+    {
+      "question": "Where is an application for a design right filed?",
+      "answer": [
+        {
+          "text": "At the UKIPO.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-092"
+    },
+    {
+      "question": "What are the requirements of a design application?",
+      "answer": [
+        {
+          "text": "The application shall:-",
+          "bullet": false
+        },
+        {
+          "text": "Be made on the correct form (DF2A)",
+          "bullet": true
+        },
+        {
+          "text": "include the identity of the person making the application;",
+          "bullet": true
+        },
+        {
+          "text": "in relation to each design, shall either –",
+          "bullet": true
+        },
+        {
+          "text": "(i) include a representation of the design; or",
+          "bullet": true
+        },
+        {
+          "text": "(ii) be accompanied by a specimen of the design; and",
+          "bullet": true
+        },
+        {
+          "text": "be accompanied by the prescribed fee.",
+          "bullet": true
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-093"
+    },
+    {
+      "question": "When a representation of the design is included in the application, how can an applicant delay publication?",
+      "answer": [
+        {
+          "text": "The applicant chooses whether to consent to publication of the filing form. He can choose not to consent to publication and can delay consenting for up to 12 months from the date of filing.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-094"
+    },
+    {
+      "question": "How do the fees work when deferring publication?",
+      "answer": [
+        {
+          "text": "There is a deferment fee to pay on filing, and the publication fee is paid later on.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-095"
+    },
+    {
+      "question": "What is a disclaimer and what can one be used for?",
+      "answer": [
+        {
+          "text": "An application may be accompanied by a disclaimer, and it may be used to:",
+          "bullet": false
+        },
+        {
+          "text": "(i) limit the scope or extent of protection being applied for; or",
+          "bullet": false
+        },
+        {
+          "text": "(ii) indicate that the application for registration relates to a design that forms only a part of the appearance of a product.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-096"
+    },
+    {
+      "question": "What are the additional requirements for an application which relates to a repeating surface pattern?",
+      "answer": [
+        {
+          "text": "The application will only be treated as relating to a repeating surface pattern if:",
+          "bullet": false
+        },
+        {
+          "text": "the representation or specimen filed under paragraph (1)(b) includes the complete pattern and a sufficient portion of the repeat in length and width to show how the pattern repeats; and",
+          "bullet": true
+        },
+        {
+          "text": "the application contains a statement that it relates to a repeating surface pattern.",
+          "bullet": true
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-097"
+    },
+    {
+      "question": "What happens when the registrar believes the application should be refused?",
+      "answer": [
+        {
+          "text": "He shall notify the applicant, and the notification shall include a statement of why it appears he should refuse to register the design (“statement of objections”). The applicant may, before the end of the period of 2 months beginning with the date of the notification, send his written observations on the “statement of objections”.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-098"
+    },
+    {
+      "question": "What happens when the application is rejected?",
+      "answer": [
+        {
+          "text": "The registrar sends written reasons for his decision. The date on which the written reasons were sent to the applicant shall be deemed to be the date of the decision for the purposes of any appeal.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-099"
+    },
+    {
+      "question": "What happens when the application is registered?",
+      "answer": [
+        {
+          "text": "The registrar publishes a representation of the design in the journal as soon as possible after the certificate of registration is granted.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-100"
+    },
+    {
+      "question": "What is the registration date for a design?",
+      "answer": [
+        {
+          "text": "A design is registered as of the date on which the application was made or is treated as having been made.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-101"
+    },
+    {
+      "question": "What is the maximum level of fine that can be award for falsely representing that a design is registered?",
+      "answer": [
+        {
+          "text": "Level 3. If the design was registered and has now expired, then level 1.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-102"
+    },
+    {
+      "question": "When an application is not complete enough to permit registration, what is the time limit for completing the application so as to avoid abandonment?",
+      "answer": [
+        {
+          "text": "12 months from the date on which the application was made.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-103"
+    },
+    {
+      "question": "What is the maximum number of design that can be registered in a single application? Do the designs have to be in the same Locarno class?",
+      "answer": [
+        {
+          "text": "50, No.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-104"
+    },
+    {
+      "question": "Under what circumstances might a divisional be required?",
+      "answer": [
+        {
+          "text": "When the design contains multiple images which the examiner considers to relate to separate designs.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-105"
+    },
+    {
+      "question": "When does a divisional application need to be filed?",
+      "answer": [
+        {
+          "text": "Where an application for the registration of more than one design has been modified to exclude one or more designs from the application, a divisional application can be filed in the subsequent 2 months for the excluded design and when considering if it’s new or has individual character, the divisional application shall be treated as having been made on the date on which the earlier application was made.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-106"
+    },
+    {
+      "question": "How are divisional application filed?",
+      "answer": [
+        {
+          "text": "Divisional applications are made on form DF2B and require payment of a fee.",
+          "bullet": false
+        }
+      ],
+      "heading": "Applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-107"
+    },
+    {
+      "question": "When can an application claim priority from an earlier application?",
+      "answer": [
+        {
+          "text": "The first application was filed within the past 6 months;",
+          "bullet": true
+        },
+        {
+          "text": "Earlier application is in a convention country;",
+          "bullet": true
+        },
+        {
+          "text": "The application is made by the earlier applicant, his representative, or assignee; and",
+          "bullet": true
+        },
+        {
+          "text": "application is in respect of the same design",
+          "bullet": true
+        }
+      ],
+      "heading": "Convention applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "priority"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-108"
+    },
+    {
+      "question": "What is the effect of an application being a “convention” application?",
+      "answer": [
+        {
+          "text": "The application shall be treated, for the purpose of determining whether that or any other design is new or has individual character, as being made on the date of the convention application.",
+          "bullet": false
+        }
+      ],
+      "heading": "Convention applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "priority"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-109"
+    },
+    {
+      "question": "What must an application claiming priority from a convention application contain?",
+      "answer": [
+        {
+          "text": "A declaration specifying –",
+          "bullet": false
+        },
+        {
+          "text": "(a) the date of making of each convention application; and",
+          "bullet": false
+        },
+        {
+          "text": "(b) the country in which it was made.",
+          "bullet": false
+        }
+      ],
+      "heading": "Convention applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "priority"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-110"
+    },
+    {
+      "question": "What must be filed following an application claiming priority from a convention application, and by when?",
+      "answer": [
+        {
+          "text": "Within 3 months of filing, the applicant must file a copy of the representation of the",
+          "bullet": false
+        },
+        {
+          "text": "design. The copy must be certified by the authority with which it was filed or verified to the satisfaction of the registrar.",
+          "bullet": false
+        }
+      ],
+      "heading": "Convention applications",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "priority"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-111"
+    },
+    {
+      "question": "How long does the initial period of registration last?",
+      "answer": [
+        {
+          "text": "5 years for the date of registration.",
+          "bullet": false
+        }
+      ],
+      "heading": "Registration",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs",
+        "duration-of-registration"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-112"
+    },
+    {
+      "question": "How many subsequent periods can the application be renewed for? How long are the subsequent periods?",
+      "answer": [
+        {
+          "text": "The applications can be extended for second, third, fourth and fifth periods of five years, so the registration can last for 25 years in total.",
+          "bullet": false
+        }
+      ],
+      "heading": "Registration",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs",
+        "duration-of-registration"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-113"
+    },
+    {
+      "question": "What happens when one of the registration periods end?",
+      "answer": [
+        {
+          "text": "The proprietor is notified, and the registration ceases to have effect.",
+          "bullet": false
+        }
+      ],
+      "heading": "Registration",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs",
+        "duration-of-registration"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-114"
+    },
+    {
+      "question": "When can the renewal fee be paid?",
+      "answer": [
+        {
+          "text": "During the period of 6 months ending with the date on which the relevant period of 5 years expires. (to the day, not the end of the month).",
+          "bullet": false
+        },
+        {
+          "text": "Explain the late renewal grace period",
+          "bullet": false
+        },
+        {
+          "text": "The fee can be paid with a surcharge in the period of six months immediately following the end of the period for extension, and the right shall be treated as if it had never expired.",
+          "bullet": false
+        }
+      ],
+      "heading": "Registration",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs",
+        "duration-of-registration"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-115"
+    },
+    {
+      "question": "What are the requirements for restoration when the grace period ends?",
+      "answer": [
+        {
+          "text": "An application for restoration needs to be made within 12 months of the date on which the registered design ceased to have effect (original renewal deadline) and the failure to renew must have been unintentional.",
+          "bullet": false
+        },
+        {
+          "text": "Explain the effect of restoring a registered design right.",
+          "bullet": false
+        },
+        {
+          "text": "For acts which would have counted as infringement had the design not expired:",
+          "bullet": false
+        },
+        {
+          "text": "if done during the 6-month grace period, or if a continuation of an earlier infringement, they still count as infringement;",
+          "bullet": true
+        },
+        {
+          "text": "if done after the 6-month grace period and before publication of notice of application for restoration, a person who began in good faith to do an act, or made serious and effective preparations to do an act, shall continue to have the right to do that act.",
+          "bullet": true
+        }
+      ],
+      "heading": "Registration",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "application-process-registered-designs",
+        "duration-of-registration"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-116"
+    },
+    {
+      "question": "What are the requirements for an assignment of a registered design (or application) to be effective?",
+      "answer": [
+        {
+          "text": "The assignment needs to be made in writing and it needs to be signed by, or on behalf of, the assignor.",
+          "bullet": false
+        }
+      ],
+      "heading": "Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "ownership-registered-designs",
+        "registered-design-as-property"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-117"
+    },
+    {
+      "question": "What is meant by an exclusive licence?",
+      "answer": [
+        {
+          "text": "An “exclusive licence” means a licence in writing signed by or on behalf of the proprietor of the registered design authorising the licensee to the exclusion of all other persons, including the person granting the licence, to exercise a right which would otherwise be exercisable exclusively by the proprietor of the registered design.",
+          "bullet": false
+        }
+      ],
+      "heading": "Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "ownership-registered-designs",
+        "registered-design-as-property"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-118"
+    },
+    {
+      "question": "How are the rights of an exclusive licensee affected by a change in proprietor?",
+      "answer": [
+        {
+          "text": "The exclusive licensee has the same rights against any successor in title who is bound by the licence as the he has against the person who granted the licence.",
+          "bullet": false
+        }
+      ],
+      "heading": "Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "ownership-registered-designs",
+        "registered-design-as-property"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-119"
+    },
+    {
+      "question": "Who can apply to the registrar to record an assignment, licence or mortgaging of a registered design?",
+      "answer": [
+        {
+          "text": "The person becoming entitled by way of assignment, licence or mortgage, or the assignor, licensee or mortgagor.",
+          "bullet": false
+        }
+      ],
+      "heading": "Ownership",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "ownership-registered-designs",
+        "registered-design-as-property"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-120"
+    },
+    {
+      "question": "What right is given to the proprietor of a registered design?",
+      "answer": [
+        {
+          "text": "The exclusive right to use the design and any design which does not produce on the informed user a different overall impression. It is a monopoly right.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "infringement-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-121"
+    },
+    {
+      "question": "What is taken into consideration when determining whether a design produces a different overall impression on the informed user?",
+      "answer": [
+        {
+          "text": "The degree of freedom of the author in creating his design.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "infringement-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-122"
+    },
+    {
+      "question": "Which acts count as “use” of a design?",
+      "answer": [
+        {
+          "text": "Making, Offering, Putting on the market, Importing, Exporting or using of a product in which the design is incorporated or to which it is applied; or stocking such a product for those purposes.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "infringement-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-123"
+    },
+    {
+      "question": "When does an act not count as an infringement?",
+      "answer": [
+        {
+          "text": "When the act is:",
+          "bullet": false
+        },
+        {
+          "text": "Done privately and for purposes which are not commercial;",
+          "bullet": true
+        },
+        {
+          "text": "Done for experimental purposes;",
+          "bullet": true
+        },
+        {
+          "text": "An act of reproduction for teaching purposes or for the purpose of making citations provided that: (a) the act of reproduction is compatible with fair trade practice and does not unduly prejudice the normal exploitation of the design; and (b) mention is made of the source;",
+          "bullet": true
+        },
+        {
+          "text": "Use of equipment on a ship or aircraft registered in another country but which is temporarily in the UK.",
+          "bullet": true
+        },
+        {
+          "text": "Explain how registered design rights apply to goods already on the market",
+          "bullet": false
+        },
+        {
+          "text": "A registered design is not infringed by an act which relates to a product in which the design is incorporated, or to which it is applied, if the product has been put on the market in the UK or the EEA by the registered proprietor or with his consent.",
+          "bullet": false
+        },
+        {
+          "text": "Explain infringement in relation to repair of complex products",
+          "bullet": false
+        },
+        {
+          "text": "A registered design of a component part which may be used for the purpose of the repair of a complex product so as to restore its original appearance is not infringed by the use for that purpose of any design protected by the registration.",
+          "bullet": false
+        },
+        {
+          "text": "Explain prior use rights",
+          "bullet": false
+        },
+        {
+          "text": "A person, who, before the application date, used a registered design in good faith or made serious and effective preparations to do so, may continue to use the design for the purposes for which the person had used it or made the preparations to use it.",
+          "bullet": false
+        },
+        {
+          "text": "Explain the limitations on prior use rights",
+          "bullet": false
+        },
+        {
+          "text": "The person does not have any rights if the design which the person used, or made preparations to use, was copied from the design which was subsequently registered.",
+          "bullet": false
+        },
+        {
+          "text": "The right cannot be licenced. The right cannot assigned, or transmitted on death unless",
+          "bullet": false
+        },
+        {
+          "text": "(a) the design was used, or the preparations for its use were made, in the course of a business, and",
+          "bullet": false
+        },
+        {
+          "text": "(b) the right is assigned or transmitted with the part of the business in which the design was used or the preparations for its use were made.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "infringement-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-124"
+    },
+    {
+      "question": "What types of relief are available in an action for infringement?",
+      "answer": [
+        {
+          "text": "Relief by way of damages, injunctions or accounts.",
+          "bullet": false
+        },
+        {
+          "text": "Explain the rights of an innocent infringer",
+          "bullet": false
+        },
+        {
+          "text": "Damages shall not be awarded against a defendant who proves that at the date of the infringement he was not aware, and had no reasonable ground for supposing, that the design was registered.",
+          "bullet": false
+        },
+        {
+          "text": "Explain when an order can be made for “delivery up”",
+          "bullet": false
+        },
+        {
+          "text": "Where a person—",
+          "bullet": false
+        },
+        {
+          "text": "(a) has in his possession, custody or control for commercial purposes an infringing article, or",
+          "bullet": false
+        },
+        {
+          "text": "(b) has in his possession, custody or control anything specifically designed or adapted for making articles to a particular design which is a registered design, knowing or having reason to believe that it has been or is to be used to make an infringing article,",
+          "bullet": false
+        },
+        {
+          "text": "the proprietor can apply to the court for an order for the infringing article or other thing to be delivered up to him or to such other person as the court may direct.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "infringement-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-125"
+    },
+    {
+      "question": "What rights does an exclusive licensee have regarding infringement?",
+      "answer": [
+        {
+          "text": "An exclusive licensee has, except against the registered proprietor, the same rights and remedies in respect of matters occurring after the grant of the licence as if the licence had been an assignment.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "infringement-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-126"
+    },
+    {
+      "question": "What are the requirements for bringing an action when there is an exclusive licensee?",
+      "answer": [
+        {
+          "text": "Where an action for infringement is brought by the registered proprietor or an exclusive licensee relates to an infringement, the proprietor or, as the case may be, the exclusive licensee may not, without the leave of the court, proceed with the action unless the other is either joined as a claimant or added as a defendant.",
+          "bullet": false
+        },
+        {
+          "text": "However, the proprietor or exclusive licensee who is added is not liable for any costs in the action unless he takes part in the proceedings.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "infringement-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-127"
+    },
+    {
+      "question": "When does a communication count as a “threat of infringement proceedings”?",
+      "answer": [
+        {
+          "text": "When a reasonable person in the position of the recipient would understand from the communication that—",
+          "bullet": false
+        },
+        {
+          "text": "(a) a registered design exists, and",
+          "bullet": false
+        },
+        {
+          "text": "(b) a person intends to bring proceedings against another person for infringement of the right in the registered design by—",
+          "bullet": false
+        },
+        {
+          "text": "(i) an act done in the UK, or",
+          "bullet": false
+        },
+        {
+          "text": "(ii) an act which, if done, would be done in the UK",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "infringement-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-128"
+    },
+    {
+      "question": "When is unauthorised copying an offence?",
+      "answer": [
+        {
+          "text": "Copying is an offence when",
+          "bullet": false
+        },
+        {
+          "text": "(a) in the course of a business, the person intentionally copies a registered design so as to make a product:",
+          "bullet": false
+        },
+        {
+          "text": "exactly to the design; or",
+          "bullet": true
+        },
+        {
+          "text": "with features which differ only in immaterial differences from the design; and",
+          "bullet": true
+        },
+        {
+          "text": "(b) the person does so:",
+          "bullet": false
+        },
+        {
+          "text": "knowing, or having reason to believe, that the design is registered; and",
+          "bullet": true
+        },
+        {
+          "text": "without consent of the registered proprietor.",
+          "bullet": true
+        }
+      ],
+      "heading": "Infringement",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "infringement-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-129"
+    },
+    {
+      "question": "On what grounds can a registration be declared invalid?",
+      "answer": [
+        {
+          "text": "On the ground that it does not fulfil the requirements of section 1(2) of this Act – i.e. it’s not a design;",
+          "bullet": true
+        },
+        {
+          "text": "On the ground that it does not fulfil the requirements of sections 1B to 1D of this Act – not new, lacks individual character, technical effect objections, or is contrary to public policy or morality;",
+          "bullet": true
+        },
+        {
+          "text": "On the grounds that it is not new, or lacks individual character, over a design which was not available to the public at the time of application, but which is itself protected from an earlier date by virtue of a registration;",
+          "bullet": true
+        },
+        {
+          "text": "The registered proprietor not being the proprietor of the design and the proprietor objects;",
+          "bullet": true
+        },
+        {
+          "text": "The design constitutes unauthorised use of a work protected by copyright;",
+          "bullet": true
+        },
+        {
+          "text": "The design involves the use of:",
+          "bullet": true
+        },
+        {
+          "text": "Royal arms or something resembling royal arms so closely it is likely to be mistaken for them;",
+          "bullet": true
+        },
+        {
+          "text": "a representation of the Royal crown or any of the Royal flags;",
+          "bullet": true
+        },
+        {
+          "text": "a representation of Her Majesty or any member of the Royal family, or any colourable imitation thereof;",
+          "bullet": true
+        },
+        {
+          "text": "the national flag of the United Kingdom, England, Scotland or Wales and it appears to the registrar that the use would be misleading or grossly offensive;",
+          "bullet": true
+        },
+        {
+          "text": "the national flag of a Paris Convention country.",
+          "bullet": true
+        }
+      ],
+      "heading": "Invalidity",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "invalidity-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-130"
+    },
+    {
+      "question": "When can an application for invalidation be made?",
+      "answer": [
+        {
+          "text": "Any time after grant",
+          "bullet": false
+        }
+      ],
+      "heading": "Invalidity",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "invalidity-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-131"
+    },
+    {
+      "question": "What are the effects of invalidation?",
+      "answer": [
+        {
+          "text": "The registration shall be treated as having been invalid from the date of registration or from such other date as the registrar may direct.",
+          "bullet": false
+        }
+      ],
+      "heading": "Invalidity",
+      "sourceFile": "ACD questions_Registered Design Rights(8105692.1).docx",
+      "areas": [
+        "invalidity-registered-designs"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-132"
+    },
+    {
+      "question": "What is design right?",
+      "answer": [
+        {
+          "text": "A property right which subsists in an original design.",
+          "bullet": false
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-133"
+    },
+    {
+      "question": "What is meant by design for the purposes of design right?",
+      "answer": [
+        {
+          "text": "The design of the shape or configuration (whether internal or external) of the whole or part of an article.",
+          "bullet": false
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-134"
+    },
+    {
+      "question": "What can design right not subsist in?",
+      "answer": [
+        {
+          "text": "a method or principle of construction,",
+          "bullet": true
+        },
+        {
+          "text": "features of shape or configuration of an article which—",
+          "bullet": true
+        },
+        {
+          "text": "(i) enable the article to be connected to, or placed in, around or against, another article so that either article may perform its function (must fit), or",
+          "bullet": true
+        },
+        {
+          "text": "(ii) are dependent upon the appearance of another article of which the article is intended by the designer to form an integral part (must match), or",
+          "bullet": true
+        },
+        {
+          "text": "surface decoration (includes 2D designs)",
+          "bullet": true
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-135"
+    },
+    {
+      "question": "What happens when only some of the features of a product are excluded by the above?",
+      "answer": [
+        {
+          "text": "Only those features are excluded from the design right. E.g. For a fence with end connectors, the fence panels may be protected whilst the connectors are not protected.",
+          "bullet": false
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-136"
+    },
+    {
+      "question": "When is a design not “original”?",
+      "answer": [
+        {
+          "text": "When it is commonplace in a qualifying country in the design field in question at the time of its creation.",
+          "bullet": false
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-137"
+    },
+    {
+      "question": "What is a qualifying country?",
+      "answer": [
+        {
+          "text": "UK",
+          "bullet": true
+        },
+        {
+          "text": "Isle of man",
+          "bullet": true
+        },
+        {
+          "text": "The channel islands",
+          "bullet": true
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-138"
+    },
+    {
+      "question": "Design right does not subsist until what?",
+      "answer": [
+        {
+          "text": "Until the design has been recorded in a design document or an article has been made to the design.",
+          "bullet": false
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-139"
+    },
+    {
+      "question": "When does Design Right expire?",
+      "answer": [
+        {
+          "text": "fifteen years from the end of the calendar year in which the design was first recorded in a design document or an article was first made to the design, whichever first occurred, or",
+          "bullet": true
+        },
+        {
+          "text": "if articles made to the design are made available for sale or hire within five years from the end of that calendar year, ten years from the end of the calendar year in which that first occurred.",
+          "bullet": true
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-140"
+    },
+    {
+      "question": "What are the restrictions about being “made available for sale or hire”?",
+      "answer": [
+        {
+          "text": "It can be made available anywhere in the world by, or with the licence of, the design right owner.",
+          "bullet": false
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-141"
+    },
+    {
+      "question": "Who is the designer?",
+      "answer": [
+        {
+          "text": "The “designer” is the person who creates the design.",
+          "bullet": true
+        },
+        {
+          "text": "In the case of a computer-generated design, the person by whom the arrangements necessary for the creation of the design are undertaken shall be taken to be the designer.",
+          "bullet": true
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-142"
+    },
+    {
+      "question": "Who is the first owner of a design right?",
+      "answer": [
+        {
+          "text": "The designer is the first owner of a design right.",
+          "bullet": false
+        },
+        {
+          "text": "Where a design is created by an employee in the course of his employment, his employer is the first owner of any design right in the design.",
+          "bullet": false
+        },
+        {
+          "text": "Where a design qualifies for design right through first marketing by a qualifying person in a qualifying country, that person is the first owner.",
+          "bullet": false
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-143"
+    },
+    {
+      "question": "How can a design qualify for design right protection?",
+      "answer": [
+        {
+          "text": "The designer or person by whom the designer was employed is a qualifying person;",
+          "bullet": true
+        },
+        {
+          "text": "The first marketing of articles made to the design took place in the UK by a qualifying person.",
+          "bullet": true
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-144"
+    },
+    {
+      "question": "How does qualification for design right work in the case of joint designers/employers etc?",
+      "answer": [
+        {
+          "text": "Only one of the persons has to be a qualifying person;",
+          "bullet": true
+        },
+        {
+          "text": "Only the qualifying persons will be entitled to design right.",
+          "bullet": true
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-145"
+    },
+    {
+      "question": "Who counts as a qualifying person?",
+      "answer": [
+        {
+          "text": "“qualifying person” means—",
+          "bullet": false
+        },
+        {
+          "text": "an individual habitually resident in a qualifying country (UK, channel islands, etc), or",
+          "bullet": true
+        },
+        {
+          "text": "a body corporate or other body having legal personality which—",
+          "bullet": true
+        },
+        {
+          "text": "(i) Is formed under the law of a part of the United Kingdom or another qualifying country, and",
+          "bullet": true
+        },
+        {
+          "text": "(ii) Has in any qualifying country a place of business at which substantial business activity is carried on.",
+          "bullet": true
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-146"
+    },
+    {
+      "question": "How can Design right be transferred?",
+      "answer": [
+        {
+          "text": "Design right is transmissible by",
+          "bullet": false
+        },
+        {
+          "text": "assignment,",
+          "bullet": true
+        },
+        {
+          "text": "testamentary disposition, or",
+          "bullet": true
+        },
+        {
+          "text": "operation of law",
+          "bullet": true
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-147"
+    },
+    {
+      "question": "What are the requirements for an assignment of design right to be effective?",
+      "answer": [
+        {
+          "text": "It needs to be in writing and signed by, or on behalf of, the assignor.",
+          "bullet": false
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-148"
+    },
+    {
+      "question": "How can an assignment be partial?",
+      "answer": [
+        {
+          "text": "It may be limited so as to apply to:",
+          "bullet": false
+        },
+        {
+          "text": "the things the design right owner has the exclusive to do; and",
+          "bullet": true
+        },
+        {
+          "text": "the period for the right subsists.",
+          "bullet": true
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-149"
+    },
+    {
+      "question": "What is an exclusive license?",
+      "answer": [
+        {
+          "text": "A license authorising the licensee to the exclusion of all other persons, including the person granting the licence, to exercise a right which would otherwise be exercisable exclusively by the design right owner.",
+          "bullet": false
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-150"
+    },
+    {
+      "question": "Are the following examples protectable by UK design right?",
+      "answer": [
+        {
+          "text": "tablecloth with novel characters on",
+          "bullet": true
+        },
+        {
+          "text": "fence panel with connector ends to join other fence panels",
+          "bullet": true
+        },
+        {
+          "text": "cooling fan in a laptop",
+          "bullet": true
+        },
+        {
+          "text": "computer generated design for furniture",
+          "bullet": true
+        },
+        {
+          "text": "(i) – No. It’s surface decoration",
+          "bullet": false
+        },
+        {
+          "text": "(ii) – The connectors are no protectable since they are for connection. The rest of the fence could be protectable",
+          "bullet": false
+        },
+        {
+          "text": "(iii) – Yes. No exclusions apply",
+          "bullet": false
+        },
+        {
+          "text": "(iv) – Yes, for the furniture. The computer-generated image is a design document.",
+          "bullet": false
+        }
+      ],
+      "heading": "UK (Unregistered) Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "sudr-and-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-151"
+    },
+    {
+      "question": "What does the owner of design rights have the exclusive right to do?",
+      "answer": [
+        {
+          "text": "He has the exclusive right to reproduce the design for commercial purposes:",
+          "bullet": false
+        },
+        {
+          "text": "by making articles to that design; or",
+          "bullet": true
+        },
+        {
+          "text": "by making a design document recording the design for the purpose of enabling such articles to be made.",
+          "bullet": true
+        },
+        {
+          "text": "“Design document” means any record of a design, in the form of a drawing, description, photograph, or otherwise.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-152"
+    },
+    {
+      "question": "What is meant by reproduce a design by making articles to the design?",
+      "answer": [
+        {
+          "text": "Reproduction of a design by making articles to the design means copying the design so as to produce articles exactly or substantially to that design.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-153"
+    },
+    {
+      "question": "When is design right infringed (primary)?",
+      "answer": [
+        {
+          "text": "When a person, without the license of the design right owner, does or authorises someone to do, anything that the design right owner has the exclusive right to do.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-154"
+    },
+    {
+      "question": "When is design right infringed (secondary)?",
+      "answer": [
+        {
+          "text": "Design right is also infringed by a person who, without the licence of the design right owner –",
+          "bullet": false
+        },
+        {
+          "text": "Imports into the UK for commercial purposes;",
+          "bullet": true
+        },
+        {
+          "text": "Has in his possession for commercial purposes; or",
+          "bullet": true
+        },
+        {
+          "text": "Sells, lets for hire, or offers for sale or hire, in the course of business,",
+          "bullet": true
+        },
+        {
+          "text": "an article which he knows is, or has reason to believe is, an infringing article.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-155"
+    },
+    {
+      "question": "What is an infringing article?",
+      "answer": [
+        {
+          "text": "An infringing article is:",
+          "bullet": false
+        },
+        {
+          "text": "an article whose creation is an infringement of design right; or",
+          "bullet": true
+        },
+        {
+          "text": "an article that has been has been, or is proposed to be, imported in the UK, and its making to that design in the United Kingdom would have been an infringement of design right",
+          "bullet": true
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-156"
+    },
+    {
+      "question": "What are the remedies available for infringement, and who can bring an action for infringement?",
+      "answer": [
+        {
+          "text": "An infringement action can be brought by the design right owner. All relief by way of damages, injunctions, accounts or otherwise is available to the plaintiff as is available for infringement of any other property right.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-157"
+    },
+    {
+      "question": "What are the limitations for innocent primary infringement, when do they apply?",
+      "answer": [
+        {
+          "text": "When the defendant did not know, and had no reason to believe, that design rights subsisted in the design, the plaintiff is not entitled to damages against him, without prejudice to any other remedy.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-158"
+    },
+    {
+      "question": "What are the limitations for innocent secondary infringement, when do they apply?",
+      "answer": [
+        {
+          "text": "When the defendant shows that the infringing article was innocently acquired by him or a predecessor in title, the only remedy available is damages not exceeding a reasonable royalty.",
+          "bullet": false
+        },
+        {
+          "text": "“Innocently acquired” means that the person acquiring the article did not know, and had no reason to believe, that it was an infringing article.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-159"
+    },
+    {
+      "question": "What are the exceptions to infringement relating to copyright?",
+      "answer": [
+        {
+          "text": "Where copyright subsists in a work which consists of or includes a design in which design right subsists, it is not an infringement of the design right to do anything which is an infringement of the copyright in that work. Cannot bring infringement for both.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-160"
+    },
+    {
+      "question": "What are the general exceptions to infringement?",
+      "answer": [
+        {
+          "text": "Design right is not infringed by –",
+          "bullet": false
+        },
+        {
+          "text": "an act which is done privately and for purposes which are not commercial;",
+          "bullet": true
+        },
+        {
+          "text": "an act which is done for experimental purposes; or",
+          "bullet": true
+        },
+        {
+          "text": "an act of reproduction for teaching purposes or for purposes of making citation., provided that-",
+          "bullet": true
+        },
+        {
+          "text": "The act is compatible with fair trade practices and does not unduly prejudice the normal exploitation of the design; and",
+          "bullet": true
+        },
+        {
+          "text": "mention is made of the source",
+          "bullet": true
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-161"
+    },
+    {
+      "question": "What are the rules for licenses as of right?",
+      "answer": [
+        {
+          "text": "In the last five years of the term of design right, any person is entitled to a licence to do any act which would otherwise count as infringement. The comptroller shall settle the terms in default of an agreement.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-162"
+    },
+    {
+      "question": "What are the restrictions for the party with the licence as of right?",
+      "answer": [
+        {
+          "text": "They cannot, without consent of the owner –",
+          "bullet": false
+        },
+        {
+          "text": "Apply to goods being marketed, or proposed to be marketed, a trade description indicating that he is the licensee of the design right owner",
+          "bullet": true
+        },
+        {
+          "text": "Use any such trade description in an advertisement in relation to such goods.",
+          "bullet": true
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-163"
+    },
+    {
+      "question": "What are for remedies for receiving groundless threats?",
+      "answer": [
+        {
+          "text": "A person aggrieved by threats for infringement proceedings may bring an action claiming–",
+          "bullet": false
+        },
+        {
+          "text": "a declaration that the threats are unjustifiable;",
+          "bullet": true
+        },
+        {
+          "text": "an injunction against continuance of the threats; and",
+          "bullet": true
+        },
+        {
+          "text": "damages for any loss sustained by the threats.",
+          "bullet": true
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-164"
+    },
+    {
+      "question": "What can proceedings not be brought for in relation to actionable threats?",
+      "answer": [
+        {
+          "text": "An infringement alleged to consist of making or importing anything",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-165"
+    },
+    {
+      "question": "What does not constitute a threat of infringement proceedings?",
+      "answer": [
+        {
+          "text": "Mere notification that a design is protected by design right.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-166"
+    },
+    {
+      "question": "What are the rights of an exclusive licensee?",
+      "answer": [
+        {
+          "text": "An exclusive licensee has, except against the design right owner, the same rights and remedies in respect of matters occurring after the grant of the licence as if the licence had been an assignment.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-167"
+    },
+    {
+      "question": "When there is an exclusive licensee, what are the conditions on bringing an action?",
+      "answer": [
+        {
+          "text": "Where an action for infringement relates to an infringement in respect of which they have concurrent rights, the design right owner or the exclusive licensee may not proceed with the action unless the other is either joined as a plaintiff or added as a defendant.",
+          "bullet": false
+        },
+        {
+          "text": "A design right owner or exclusive licensee who is added as a defendant in pursuance of subsection is not liable for any costs in the action unless he takes part in the proceedings.",
+          "bullet": false
+        }
+      ],
+      "heading": "Infringement of UK Design Right",
+      "sourceFile": "ACD questions_Unregistered Design right(8105693.1).docx",
+      "areas": [
+        "infringement-uk-design-right"
+      ],
+      "reviewStatus": "proposed",
+      "verified": false,
+      "id": "card-168"
+    }
+  ]
+}
