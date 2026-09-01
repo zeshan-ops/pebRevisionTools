@@ -52,71 +52,112 @@ these are the words being marked.
 
 ## 3. Segmentation
 
-The genuinely hard step. Three document types, three grammars.
+The genuinely hard step. Three document types, three grammars — and the grammars
+**drift between years**. Every rule below was checked against the 2022, 2023 and
+2024 papers; where they disagree, the disagreement is recorded. Do not tighten a
+rule beyond what all three support.
 
 ### Question papers
 
 Anchors, in priority order:
 
-1. `SECTION A` / `SECTION B` — set `question.section`, and `is_optional = 1`
-   for everything in B.
-2. `^Question\s+(\d+)\s*$` on its own line — starts a question.
+1. **Sections.** `^SECTION [AB]` opens a section. Section-total lines close one,
+   and their wording *varies*:
+   - `SECTION A Total: 40 marks` (2022, 2023)
+   - `Total for SECTION A: 40 marks` (2024)
+   - `SECTION B Total: 60 Marks` (2023 only)
+
+   Match `(?:SECTION\s+([AB])\s+Total|Total\s+for\s+SECTION\s+([AB]))`, and
+   **never** let these lines be parsed as a question's `Total:`. Everything in
+   Section B gets `is_optional = 1`.
+
+2. `^\s*Question\s+(\d+)\s*$` — starts a question. Reliable in all three
+   years, in papers and mark schemes alike (always exactly 10).
+
 3. `^\s*([a-z])\)\s` — starts a sub-question **only if** the letter is the
-   expected next one for the current question (`a` then `b` then `c`…). This
-   guard matters: prose contains `a)`-shaped strings, and lettered lists appear
-   inside scenarios. An out-of-sequence letter is a list item, not a part.
+   expected next one for the current question. Prose contains `a)`-shaped
+   strings. Parts run to at least **(f)** — 2023 has a six-part question of
+   1 mark each — so do not assume a–d.
+
 4. `(\d+(?:\.5)?)\s+marks?\s*$` — closes a sub-question and sets its marks.
-5. `Total:\s*(\d+)\s+[Mm]arks` — closes a question; assert it equals the sum of
-   its parts and fail loudly if not. This is the pipeline's best self-check.
+   Note `marks?`: the sources contain `(1 marks)` typos.
 
-**Narrative attribution — the load-bearing rule.** Text between the end of one
-sub-question's marks line and the start of the next `letter)` is that *next*
-sub-question's `preceding_narrative`. Text between the `Question N` heading and
-the first `a)` is the question's `preamble`. Getting this wrong is the failure
-mode that matters most: it either leaks a later fact into an earlier part or
-strands a fact that a part depends on.
+5. `Total:\s*(\d+)\s+[Mm]arks` — closes a question. **Only present when the
+   question has lettered parts.** 2024 Q2, Q3 and Q4 have no parts, no `Total:`,
+   and just a single marks line. A gate demanding a `Total:` on every question
+   fails 2024 outright.
 
-A question with no lettered parts (2022 Q1–Q4, Q6) still gets exactly one
-`sub_question` row with `letter = NULL` and `ordinal = 1`, so everything
-downstream — attempts, marks, categorisation — has a uniform target.
+**Narrative attribution — the load-bearing rule.** Two distinct patterns exist
+and one rule covers both:
+
+- Text after `letter)` and before that part's marks line **belongs to the part**
+  (`sub_question.text`). It may itself contain scenario facts — 2024 Q5(a) opens
+  with "Jocelyn is an American designer…" before the instruction.
+- Text between one part's marks line and the next `letter)` is the **next**
+  part's `preceding_narrative`. This is the 2022 Q9 pattern, where the 2014
+  Twitter post appears here and retrospectively destroys novelty.
+- Text between the `Question N` heading and the first `a)` is the question's
+  `preamble`.
+
+Getting this wrong either leaks a later fact into an earlier part or strands a
+fact the part depends on. It is the failure mode that matters most.
+
+**Section A is not structurally "recall-only."** The 2022 examiner's report
+describes it that way, but 2024 Q2 and Q3 are full scenarios with preambles.
+Treat `preamble` as valid in both sections; the A/B difference is marks and
+optionality, not shape.
+
+A question with no lettered parts still gets exactly one `sub_question` row with
+`letter = NULL` and `ordinal = 1`, so attempts, marks and categorisation have a
+uniform target.
 
 Discard: the instructions page, `Page N of M`, and the running `FC4` header.
 
 ### Mark schemes
 
-Mark schemes restate the question before answering it, so segmentation must not
-re-parse those restatements as new questions. Anchor on `Answer:` — everything
-after it, until the next `Question\s+\d+`, is mark scheme content.
+Mark schemes **restate the question — parts, marks and all — before answering
+it**. A naive parse therefore double-counts every mark in the paper. Split each
+question at the answer anchor and parse items only from what follows.
 
-Within an answer, parts are marked `(a)`, `(b)` — parenthesised, unlike the
-paper's `a)`. Items are bullet lines ending in a mark value:
+The anchor is `^\s*Answer\b:?` — **the colon is optional**. 2022 and 2024 write
+`Answer:`; 2023 writes `Answer`. Requiring the colon finds 2 of 10 questions in
+2023 and silently drops the rest. With the colon optional it finds exactly 10 in
+all three years.
 
-```
-- Copyright subsists in original artistic works … (1 mark)
-- … a habitual residence … (0.5 marks each)
-```
+Within an answer, both the item marker and the mark placement vary:
 
-Parse `\((\d+(?:\.5)?)\s+marks?\b` into `mark_scheme_item.marks`. Note the
-2022 scheme's preamble — *"Half marks may be awarded"*, *"Article and section
-numbers are not required"* — is paper-level guidance, not an item; capture it on
-the paper, not as a scored bullet.
+| Year | Items marked by | Marks placed |
+|---|---|---|
+| 2022 | bullet glyphs | inline, end of line — `… (1 mark)` |
+| 2023 | numbered `1.` `2.` | **on their own line** — `(6 marks)` |
+| 2024 | plain lines | inline, end of line — `… (1 mark)` |
 
-`0.5 marks each` applied to a multi-item bullet needs a human decision. Flag,
-don't guess.
+So an item is "text up to and including its mark value", where the value may sit
+on the following line. Parse `\((\d+(?:\.5)?)\s+marks?\b` — again `marks?`,
+and note 2023 uses `(N marks)` in parentheses where the paper uses bare
+`N marks`.
+
+Half marks are common and increasing (8 mentions in 2022, 12 in 2023, 17 in
+2024), which is why `mark_scheme_item.marks` and `self_mark.awarded` are REAL.
+
+Paper-level guidance — *"Half marks may be awarded"*, *"Article and section
+numbers are not required"* — belongs on the paper, not as a scored item.
+`0.5 marks each` applied to a multi-item bullet needs a human decision: flag,
+do not guess.
 
 ### Examiner's reports
 
-A two-column table: question number, commentary. Extracted linearly, this
-becomes `Question 1` followed by its prose. Anchor on `^Question\s+(\d+)` and
-take everything to the next anchor. Reports are **per question** — there is no
-sub-question granularity to recover, and none should be invented.
+A two-column table (question number, commentary) that extracts linearly. Anchor
+on `^Question\s+(\d+)` and take everything to the next anchor. Reports are
+**per question** — there is no sub-question granularity to recover, and none
+should be invented.
 
 ## 4. Pairing
 
 By filename: `FC4-2022-paper.pdf` ↔ `FC4-2022-mark-scheme.pdf` ↔
-`FC4-2022-examiners-report.pdf`. A paper with no mark scheme imports fine and is
-marked as such; the UI hides the reveal control rather than showing an empty
-panel.
+`FC4-2022-examiners-report.pdf`. All of 2022, 2023 and 2024 are present as
+complete sets. A paper with no mark scheme imports fine and is marked as such;
+the UI hides the reveal control rather than showing an empty panel.
 
 ## 5. Categorisation
 
@@ -129,41 +170,56 @@ For each sub-question the model proposes syllabus areas from
 - Section B is genuinely multi-area — 2022 Q8 spans areas 12, 13, 2 and 4 — and
   each part usually sits in a different one. Do not collapse to one.
 - Prefer the area whose *provisions* the mark scheme actually cites. The mark
-  scheme is better evidence of the intended area than the question wording.
+  scheme is better evidence of intent than the question wording. The 2023 scheme
+  is especially explicit, naming sections in the questions themselves
+  ("With regard to S. 16 CDPA …").
 
 Never auto-confirm. `proposed` is the only status the pipeline may write.
 
-## 6–7. Review and import
+## 6-7. Review and import
 
 Review at `/review` (see `docs/ui.md`). Import is idempotent and keyed on
-`(paper_code, year)`: re-importing a paper replaces its derived rows inside a
-transaction and **must not touch `attempt`, `self_mark` or `progress`**. Since
-those FK to `sub_question`, re-import must match existing sub-questions on
+`(paper_code, year)`: re-importing replaces derived rows in a transaction and
+**must not touch `attempt`, `self_mark` or `progress`**. Those FK to
+`sub_question`, so re-import must match existing sub-questions on
 `(question.number, ordinal)` and update in place rather than delete-and-insert,
-or a re-import silently destroys written answers. This is the single most
-dangerous operation in the codebase — cover it with a test that writes an
-attempt, re-imports, and asserts the answer survives.
+or it silently destroys written answers. This is the most dangerous operation in
+the codebase — cover it with a test that writes an attempt, re-imports, and
+asserts the answer survives.
 
 ## Validation gates
 
-The importer refuses input that fails any of these:
+The importer refuses input that fails any of these. Each was checked against all
+three papers.
 
-1. Every question's part marks sum to its stated `Total:`.
-2. Section A marks sum to 40; Section B questions are 20 each; paper total 100.
-3. Section A has 6 questions, Section B has 4 — for the current format. Warn
-   rather than fail if a paper differs; older papers may not match.
-4. Every sub-question has ≥1 mark scheme item, where a mark scheme exists.
-5. No sub-question text is empty or under 20 characters.
-6. Letters within a question are contiguous from `a`.
+1. **If** a question states `Total: N marks`, its parts must sum to N. Questions
+   without parts have no `Total:` and are exempt — this is normal, not an error.
+2. Section A marks sum to **40**; each Section B question is **20**.
+3. Marks arithmetic, stated explicitly because it is easy to get wrong:
+   - **Available** = 40 + (4 × 20) = **120**
+   - **Examinable** = 40 + (best 3 × 20) = **100**
+
+   Never assert "paper total = 100" against summed marks; the paper contains 120.
+4. 10 questions: 6 in Section A, 4 in Section B. True for 2022-2024. **Warn, do
+   not fail** — older papers may differ.
+5. Every sub-question has ≥1 mark scheme item, where a mark scheme exists.
+6. No sub-question text is empty or under 20 characters.
+7. Letters within a question are contiguous from `a`.
+8. The mark scheme yields exactly one answer block per question (10 per paper).
+   Fewer means the `Answer` anchor drifted again — fail loudly.
 
 A failing gate prints the offending question and stops. Do not import partial
 papers.
 
 ## Known limitations
 
-- Layout-dependent: two-column or heavily tabular papers may need per-year
-  tweaks. Keep overrides in a per-paper config, not in the shared parser.
-- Older papers pre-date the current format and may not satisfy gate 3.
-- Figures and images in design papers are not extracted at all. A question
-  depending on a drawing will import as text and be incomplete — flag these for
-  manual attention rather than importing them silently.
+- **The grammar drifts yearly.** Three years produced three variations in the
+  answer anchor, mark placement, item markers and section-total wording. Assume
+  the next paper adds another. Keep per-year quirks in a per-paper config, not
+  in the shared parser, and re-run the gates on every import.
+- Older papers pre-date the current format and may fail gate 4.
+- Figures and drawings are not extracted at all. A design question depending on
+  an image imports as incomplete text — flag for manual attention rather than
+  importing silently.
+- Intra-word spacing damage (`Ahmed is a London -based designer`) survives
+  cleaning in places. Acceptable in narrative; never "correct" statutory wording.

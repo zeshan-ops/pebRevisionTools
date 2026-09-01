@@ -19,10 +19,11 @@ the decisions; the docs hold the how.
 These drive the design and should not be re-derived:
 
 1. **The syllabus is a clean 16-node tree.** Each area carries a number, title, IPReg topic tags, lettered learning outcomes, and an explicit list of legal provisions. The content taxonomy is pre-specified by the PEB — do not invent one.
-2. **Exam format:** 3 hours, 100 marks, pass at 50%. Section A = Q1–6, all compulsory, 40 marks total, 1–10 marks each, recall-heavy. Section B = Q7–10, **choose 3 of 4**, 20 marks each, scenario application.
-3. **Section B scenarios reveal facts progressively.** Facts are interleaved between sub-questions — in 2022 Q9, the 2014 Twitter post that destroys novelty is disclosed only after parts (a) and (b). **The practice UI must preserve this reveal order.** Showing the full scenario at once destroys the question.
-4. **Granularity mismatch:** mark schemes are per sub-question and bullet-level with marks attached (half marks allowed). Examiner's reports are per *whole question* only. Sub-question views inherit the parent question's examiner commentary, and must be labelled as such.
-5. Nearly every learning outcome ends `"Apply (a) to (x) to a scenario"` — the Section A / Section B split is encoded in the syllabus itself.
+2. **Exam format:** 3 hours, pass at 50%. Section A = Q1–6, all compulsory, 40 marks. Section B = Q7–10, **choose 3 of 4**, 20 marks each. So a paper contains **120 available** marks but is scored out of **100 examinable** (40 + best 3 × 20). Do not conflate the two.
+3. **Section A is not structurally recall-only.** The 2022 examiner's report calls it that, but 2024 Q2 and Q3 are full scenarios with preambles. A/B differ in marks and optionality, not shape.
+4. **Section B scenarios reveal facts progressively.** Facts are interleaved between sub-questions — in 2022 Q9, the 2014 Twitter post that destroys novelty is disclosed only after parts (a) and (b). **The practice UI must preserve this reveal order.** Showing the full scenario at once destroys the question.
+5. **Granularity mismatch:** mark schemes are per sub-question and bullet-level with marks attached (half marks allowed). Examiner's reports are per *whole question* only. Sub-question views inherit the parent question's examiner commentary, and must be labelled as such.
+6. Nearly every learning outcome ends `"Apply (a) to (x) to a scenario"` — the Section A / Section B split is encoded in the syllabus itself.
 
 ## Stack
 
@@ -61,7 +62,9 @@ Every categorisation carries `confidence` and `reviewStatus`, so the model's fir
 
 `npm run extract` : PDFs -> cleaned text -> segmented JSON -> review UI -> SQLite.
 
-pypdf reads all current PDFs (text layers present, no OCR needed). Output is dirty — `"retaile r"`, `"Brigh ton"`, lost bullet glyphs — so a cleaning pass plus human review is mandatory. With 5–10+ papers coming, the review UI is a first-class component.
+pypdf reads all current PDFs (text layers present, no OCR needed). Output is dirty — `"retaile r"`, `"Brigh ton"`, lost bullet glyphs — so a cleaning pass plus human review is mandatory.
+
+**2022, 2023 and 2024 are loaded as complete sets** (paper + mark scheme + examiner's report). Testing the segmentation rules against all three showed the grammar drifts every year — the mark scheme answer anchor, mark placement, item markers and section-total wording all vary. `docs/extraction.md` records each variation and which year proved it. Assume the next paper adds another.
 
 Derived JSON lands in **gitignored** `content/derived/`, because the extracted text *is* the copyrighted material. Consequence: a fresh clone does not yield a working app — it needs the PDFs plus a rebuild. This is the correct trade; it keeps PEB content off GitHub entirely.
 

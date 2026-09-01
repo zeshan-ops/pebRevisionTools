@@ -14,6 +14,11 @@ Specified, not yet implemented. Read in this order:
 | `docs/ui.md` | Routes, screen specs, acceptance criteria per phase |
 | `docs/extraction.md` | PDF → JSON pipeline, segmentation rules, validation gates |
 
+Papers loaded: **FC4 2022, 2023, 2024**, each a complete set (paper, mark
+scheme, examiner's report). The document grammar drifts between years — see
+`docs/extraction.md`, which records every variation found and the year that
+proved it.
+
 Data already built: `content/syllabus/fc4.json` (16 areas, 82 outcomes) and
 `content/provisions.json` (126 provisions, 102 titles verified against
 legislation.gov.uk). Regenerate the latter with `scripts/build_provisions.py`,
@@ -45,9 +50,12 @@ FC1–FC5 are the Foundation Certificate papers; FD1 is Final Diploma.
 **FC4 — Design and Copyright Law** is the first target. Confirmed format from the
 2026 syllabus:
 
-- Three hour unseen written exam, closed book. 100 marks. **Pass mark 50%.**
+- Three hour unseen written exam, closed book. **Pass mark 50%.**
+- A paper contains **120 available** marks, scored out of **100 examinable**
+  (Section A 40 + best three Section B answers at 20 each). Never conflate them.
 - **Section A** — Q1–6, *all compulsory*, 40 marks total, each worth 1–10 marks.
-  Recall-focused.
+  Often recall, but *not always*: 2024 Q2 and Q3 are full scenarios. Section A
+  and B differ in marks and optionality, not in shape.
 - **Section B** — Q7–10, ***choose three of four***, 20 marks each, 60 marks total.
   Scenario application, with lettered sub-parts.
 
