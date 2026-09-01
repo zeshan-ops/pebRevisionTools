@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+.env.local
+
+# Exam material (PEB copyright) — keep local unless confirmed shareable
+/data/papers/
+/data/private/
+
+# Claude Code local settings
+.claude/settings.local.json
