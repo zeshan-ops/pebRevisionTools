@@ -4,7 +4,20 @@ A revision assistance tool for the **PEB exams** (Patent Examination Board — t
 
 ## Status
 
-Planned, not yet implemented. **Read `PLAN.md` first** — it holds the agreed MVP scope, stack, data model and build phases.
+Specified, not yet implemented. Read in this order:
+
+| Doc | What it settles |
+|-----|-----------------|
+| `PLAN.md` | Scope, locked decisions, build phases |
+| `docs/design-system.md` | Design tokens, type, components — **read before writing any UI** |
+| `docs/schema.sql` | Full DDL, with the reasoning in comments |
+| `docs/ui.md` | Routes, screen specs, acceptance criteria per phase |
+| `docs/extraction.md` | PDF → JSON pipeline, segmentation rules, validation gates |
+
+Data already built: `content/syllabus/fc4.json` (16 areas, 82 outcomes) and
+`content/provisions.json` (126 provisions, 102 titles verified against
+legislation.gov.uk). Regenerate the latter with `scripts/build_provisions.py`,
+re-verify with `scripts/verify_provisions.py`.
 
 Stack (agreed): Next.js App Router + TypeScript, Tailwind + shadcn/ui, MDX content in git, SQLite (better-sqlite3) for user data, MiniSearch for search. Local-only, single user, no auth.
 
@@ -82,4 +95,11 @@ no PDF tooling on this machine — extract text with `pypdf` in a venv, not
 
 ## Commands
 
-_None yet — add build/test/run commands here as soon as the stack exists._
+```bash
+python3 scripts/build_provisions.py    # rebuild citation registry from syllabus
+python3 scripts/verify_provisions.py   # re-verify titles against legislation.gov.uk
+```
+Node commands land here at Phase 0.
+
+**No PDF tooling on this machine** — no poppler/pdftotext/mutool/qpdf, no GNU
+`timeout`, no `gh`. Extract PDF text with `pypdf` in a venv.

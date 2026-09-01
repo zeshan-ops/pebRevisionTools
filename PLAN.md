@@ -1,6 +1,9 @@
 # FC4 Revision Tool — MVP Plan
 
-Status: agreed 2026-09-01. Not yet implemented.
+Status: agreed and specified 2026-09-01. Not yet implemented.
+
+Detailed specs live in `docs/` — see the table in `CLAUDE.md`. This file holds
+the decisions; the docs hold the how.
 
 ## Locked decisions
 
@@ -82,7 +85,7 @@ Link-checker script so dead links surface rather than rot. legislation.gov.uk de
 | Phase | Deliverable |
 |-------|-------------|
 | 0 | Scaffold: Next.js, TS, Tailwind, shadcn, design tokens, SQLite |
-| 1 | Syllabus as structured data + Provision registry + link checker |
+| 1 | ~~Syllabus data + Provision registry~~ **done** — remaining: link checker, `/content` routes |
 | 2 | Extraction pipeline + review UI; 2022 paper ingested |
 | 3 | Content section: area pages, MDX notes, search |
 | 4 | Practice section: filters, progressive reveal, answer editor, mark scheme + examiner report |

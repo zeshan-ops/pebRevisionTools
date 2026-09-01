@@ -14,5 +14,18 @@
 # Delete the line below if the repo is private and you want the PDFs synced.
 exam-materials/**/*.pdf
 
+# Derived exam content (extracted question/mark scheme text is PEB copyright)
+content/derived/
+
+# Python venv for the extraction scripts
+.venv/
+
+# Node / Next
+node_modules/
+.next/
+*.db
+*.db-wal
+*.db-shm
+
 # Claude Code local settings
 .claude/settings.local.json
