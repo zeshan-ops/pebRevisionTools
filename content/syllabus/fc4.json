@@ -1,0 +1,845 @@
+{
+  "paperCode": "FC4",
+  "title": "Design and Copyright Law",
+  "syllabusYear": 2026,
+  "source": "exam-materials/syllabi/FC4-2026-syllabus.pdf",
+  "transcribedBy": "manual transcription from source PDF, 2026-09-01",
+  "verified": false,
+  "exam": {
+    "durationMins": 180,
+    "totalMarks": 100,
+    "passMark": 50,
+    "closedBook": true,
+    "sections": [
+      {
+        "id": "A",
+        "questionNumbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "totalMarks": 40,
+        "answerAll": true,
+        "choose": null,
+        "marksPerQuestion": {
+          "min": 1,
+          "max": 10
+        },
+        "character": "recall"
+      },
+      {
+        "id": "B",
+        "questionNumbers": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "totalMarks": 60,
+        "answerAll": false,
+        "choose": 3,
+        "marksPerQuestion": {
+          "min": 20,
+          "max": 20
+        },
+        "character": "scenario application"
+      }
+    ],
+    "notes": [
+      "If more than three questions are answered in Section B, only the first three presented are marked.",
+      "Mark schemes award half marks where candidates have not been precise.",
+      "Article and section numbers are not required in answers."
+    ]
+  },
+  "areas": [
+    {
+      "number": 1,
+      "slug": "general-provisions-copyright",
+      "title": "General provisions relating to copyright",
+      "ipregTopics": [
+        "Copyright law UK & International",
+        "rationale"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Describe the rationale for the copyright system",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Explain the general provisions under the Berne Convention for extending copyright protection internationally",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Apply (a) and (b) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "berne-art-1",
+        "berne-art-5"
+      ],
+      "cases": []
+    },
+    {
+      "number": 2,
+      "slug": "protection-of-designs-international",
+      "title": "Protection of designs in UK, EU, USA, China and Japan",
+      "ipregTopics": [
+        "Strategic creation and management of industrial design portfolios",
+        "registering and maintaining a design internationally"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Explain what national, regional and international protection is available for registered designs",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Evaluate alternative ways in which a client's rights in a design may be protected, including advising on strategic considerations for the creation of a portfolio of national and international design applications",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Explain EU Design right: requirements for subsistence, and term",
+          "isApplication": false
+        },
+        {
+          "letter": "d",
+          "text": "Identify any grace periods for prior disclosures",
+          "isApplication": false
+        },
+        {
+          "letter": "e",
+          "text": "With reference to the Paris Convention, define the underlying principles for claiming priority for national and international applications",
+          "isApplication": false
+        },
+        {
+          "letter": "f",
+          "text": "Define who may file an International application",
+          "isApplication": false
+        },
+        {
+          "letter": "g",
+          "text": "Identify where an International (Hague) application must be filed and its contents",
+          "isApplication": false
+        },
+        {
+          "letter": "h",
+          "text": "Know key similarities and differences between registered design practice in UK, EU, USA, China, Japan and the Hague system",
+          "isApplication": false
+        },
+        {
+          "letter": "i",
+          "text": "Apply (a) to (h) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "paris-art-1",
+        "paris-art-4",
+        "hague-art-3",
+        "hague-art-4",
+        "hague-art-5",
+        "hague-art-6",
+        "hague-common-regs",
+        "hague-admin-instructions",
+        "eudr-arts-1-14",
+        "eudr-art-3",
+        "eudr-arts-19-21",
+        "eudr-art-20a",
+        "eudr-art-37"
+      ],
+      "cases": [
+        "beverly-hills-teddy-bear"
+      ],
+      "sourceNote": "The syllabus flags that following the amendment to EUDR article 110a para 5, the ratio of C-728/19 might no longer be valid law."
+    },
+    {
+      "number": 3,
+      "slug": "registered-unregistered-rights-uk",
+      "title": "Registered and unregistered rights in UK",
+      "ipregTopics": [
+        "UK Laws and procedures relating to the protection of industrial design through unregistered and registered design laws",
+        "overlap with trade mark rights"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "With reference to the provisions detailed on the right, compare the advantages and disadvantages of the different forms of protection for industrial designs within the UK",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Explain the interaction between trade marks and the different forms of protection for industrial designs within the UK",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Apply (a) and (b) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "rda-general",
+        "rdr-general",
+        "cdpa-designs-general",
+        "cdpa-copyright-general"
+      ],
+      "cases": []
+    },
+    {
+      "number": 4,
+      "slug": "registrable-designs",
+      "title": "The law relating to registrable designs",
+      "ipregTopics": [
+        "Qualifying for protection"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Define the requirements for a design to be registrable including: Novelty; Individual character; Exclusions",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Identify any grace periods for prior disclosures",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Apply (a) and (b) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "rda-1",
+        "rda-1b",
+        "rda-1c",
+        "rda-1d"
+      ],
+      "cases": [
+        "samsung-v-apple",
+        "pepsico-v-grupo-promer"
+      ],
+      "sourceNote": "Syllabus specifies the general approach taken by the courts to individual character set out in Samsung v Apple [2012] EWHC 1882, approving PepsiCo v Grupo Promer (C-281/10 P)."
+    },
+    {
+      "number": 5,
+      "slug": "ownership-registered-designs",
+      "title": "Ownership of registered designs",
+      "ipregTopics": [
+        "Ownership"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Describe how the proprietor of a registered design is determined",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Apply (a) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "rda-2"
+      ],
+      "cases": []
+    },
+    {
+      "number": 6,
+      "slug": "application-process-registered-designs",
+      "title": "The law relating to the application process for registered designs",
+      "ipregTopics": [
+        "Registering and maintaining a design in the UK",
+        "registering and maintaining a design internationally"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Describe how to make a design application, including a divisional application",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "List the requirements for obtaining a filing date for an application",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Describe the procedure from filing through to registration, including any available extensions of time",
+          "isApplication": false
+        },
+        {
+          "letter": "d",
+          "text": "Outline how publication may be delayed or deferred and the consequences of delaying or deferring",
+          "isApplication": false
+        },
+        {
+          "letter": "e",
+          "text": "Explain the consequences of falsely representing a design as registered",
+          "isApplication": false
+        },
+        {
+          "letter": "f",
+          "text": "Explain the procedure at the International Bureau concerning designation, correction of irregularities, publication, unity, refusal, registration, invalidation and recordal of changes for international designs",
+          "isApplication": false
+        },
+        {
+          "letter": "g",
+          "text": "Apply (a) to (e) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "hague-arts-7-16",
+        "hague-art-18",
+        "hague-common-regs",
+        "hague-admin-instructions",
+        "rda-3",
+        "rda-3c",
+        "rdr-4",
+        "rdr-6",
+        "rdr-7",
+        "rdr-8",
+        "rdr-11",
+        "rda-35"
+      ],
+      "cases": [],
+      "sourceNote": "Source says 'Apply (a) to (e)' although outcomes run to (f). Transcribed faithfully. SOURCE CITATION ERROR: the syllabus cites 'RDR 35 - Fine for falsely representing a design as registered'. Verified 2026-09-01 against legislation.gov.uk: RDR 2006 r.35 is 'Notice of rectification of the register'; the quoted heading belongs to RDA 1949 s.35. Corrected to rda-35 here. Answer to the substance, not the syllabus's rule number."
+    },
+    {
+      "number": 7,
+      "slug": "priority",
+      "title": "Priority",
+      "ipregTopics": [
+        "Strategic creation and management of industrial design portfolios"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Define the requirements for claiming priority when filing an application",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Determine whether a later application can validly claim priority from an earlier application",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Apply (a) and (b) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "rda-14"
+      ],
+      "cases": []
+    },
+    {
+      "number": 8,
+      "slug": "duration-of-registration",
+      "title": "Duration of registration",
+      "ipregTopics": [
+        "Registering and maintaining a design in the UK",
+        "registering and maintaining a design internationally"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Define the term that a design is in force and describe the renewal process for maintaining the design",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Explain the restoration process and the implications of restoring a lapsed design",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Explain the implications of cancelling a UK design registration",
+          "isApplication": false
+        },
+        {
+          "letter": "d",
+          "text": "Apply (a) and (b) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "rda-8",
+        "rda-8a",
+        "rda-8b",
+        "rda-11",
+        "rda-11ze",
+        "rdr-12",
+        "rdr-13",
+        "hague-art-17"
+      ],
+      "cases": [],
+      "sourceNote": "Source says 'Apply (a) and (b)' although outcomes run to (c). Transcribed faithfully."
+    },
+    {
+      "number": 9,
+      "slug": "registered-design-as-property",
+      "title": "A Registered Design as a form of property",
+      "ipregTopics": [
+        "Ownership"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Describe how a registered design may be transferred or licensed",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Explain the effect of registration of a transfer and the implications of non-registration",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Describe the rights of an exclusive licensee",
+          "isApplication": false
+        },
+        {
+          "letter": "d",
+          "text": "Describe the consequences of not recording a licence on the Register",
+          "isApplication": false
+        },
+        {
+          "letter": "e",
+          "text": "Apply (a) to (d) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "rda-15a",
+        "rda-15b",
+        "rda-15c",
+        "rda-19"
+      ],
+      "cases": []
+    },
+    {
+      "number": 10,
+      "slug": "infringement-registered-designs",
+      "title": "The law relating to infringement of registered designs",
+      "ipregTopics": [
+        "Infringement",
+        "defences"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Identify the acts which infringe the right in a UK design registration",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "List the statutory exceptions to infringement",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Define who may bring an action for infringement",
+          "isApplication": false
+        },
+        {
+          "letter": "d",
+          "text": "Describe the remedies which may be claimed and any limitations on the remedies",
+          "isApplication": false
+        },
+        {
+          "letter": "e",
+          "text": "Outline the limitations based on a prior use right",
+          "isApplication": false
+        },
+        {
+          "letter": "f",
+          "text": "Explain when proceedings for a groundless threat of infringement may be brought in the UK",
+          "isApplication": false
+        },
+        {
+          "letter": "g",
+          "text": "Outline when the offence of unauthorised copying is committed",
+          "isApplication": false
+        },
+        {
+          "letter": "h",
+          "text": "Describe the consequences of committing the offence",
+          "isApplication": false
+        },
+        {
+          "letter": "i",
+          "text": "Apply (a) to (h) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "rda-7",
+        "rda-7a",
+        "rda-7b",
+        "rda-24a",
+        "rda-24b",
+        "rda-24c",
+        "rda-24d",
+        "rda-24f",
+        "rda-24g",
+        "rda-26",
+        "rda-35za"
+      ],
+      "cases": []
+    },
+    {
+      "number": 11,
+      "slug": "invalidity-registered-designs",
+      "title": "The law relating to declarations of invalidity of registered designs",
+      "ipregTopics": [
+        "Invalidity"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "List the grounds of invalidity and who may file an application for declaration of invalidity",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Describe the consequences or effect of invalidation of the registration",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Apply (a) and (b) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "rda-11za",
+        "rda-sch-a1",
+        "rda-11zb",
+        "rda-11ze"
+      ],
+      "cases": []
+    },
+    {
+      "number": 12,
+      "slug": "sudr-and-uk-design-right",
+      "title": "The law relating to supplementary unregistered design right and UK design right",
+      "ipregTopics": [
+        "Qualifying for protection",
+        "ownership"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Define the requirements for (UK and supplementary) unregistered design right to subsist: Novelty; Individual character; Originality; Commonplace; Exclusions",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Explain how the term of an unregistered design right is determined (UK and supplementary UDR)",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Describe how the proprietor of (UK and supplementary) unregistered design right is determined",
+          "isApplication": false
+        },
+        {
+          "letter": "d",
+          "text": "Define how a design may qualify for UK unregistered design right by reference to the designer, employer or first marketing",
+          "isApplication": false
+        },
+        {
+          "letter": "e",
+          "text": "Describe how an unregistered design may be transferred or licensed",
+          "isApplication": false
+        },
+        {
+          "letter": "f",
+          "text": "Describe the rights of an exclusive licensee",
+          "isApplication": false
+        },
+        {
+          "letter": "g",
+          "text": "Apply (a) to (f) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "cdpa-213",
+        "cdpa-214",
+        "cdpa-215",
+        "cdpa-216",
+        "cdpa-217",
+        "cdpa-218",
+        "cdpa-219",
+        "cdpa-220",
+        "cdpa-222",
+        "cdpa-223",
+        "cdpa-225"
+      ],
+      "cases": [
+        "beverly-hills-teddy-bear"
+      ]
+    },
+    {
+      "number": 13,
+      "slug": "infringement-uk-design-right",
+      "title": "The law relating to infringement of UK design right",
+      "ipregTopics": [
+        "Infringement",
+        "defences",
+        "overlap with copyright"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Identify the acts which infringe UK design right and the acts which do not infringe",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Define who may bring an action for infringement",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Describe the remedies which may be claimed and any limitations on the remedies",
+          "isApplication": false
+        },
+        {
+          "letter": "d",
+          "text": "Describe the impact of licences of right on UK unregistered design right",
+          "isApplication": false
+        },
+        {
+          "letter": "e",
+          "text": "Explain the interaction between copyright and UK design right in a design",
+          "isApplication": false
+        },
+        {
+          "letter": "f",
+          "text": "Explain when proceedings for a groundless threat of infringement may be brought in the UK",
+          "isApplication": false
+        },
+        {
+          "letter": "g",
+          "text": "Apply (a) to (f) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "cdpa-51",
+        "cdpa-226",
+        "cdpa-227",
+        "cdpa-228",
+        "cdpa-229",
+        "cdpa-233",
+        "cdpa-234",
+        "cdpa-235",
+        "cdpa-236",
+        "cdpa-237",
+        "cdpa-254",
+        "cdpa-244a",
+        "cdpa-253"
+      ],
+      "cases": []
+    },
+    {
+      "number": 14,
+      "slug": "copyright-literary-artistic-works",
+      "title": "The law relating to copyright in literary and artistic works",
+      "ipregTopics": [
+        "Copyright law (UK)",
+        "subsistence",
+        "subject matter (literary, artistic, musical and dramatic works)",
+        "ownership",
+        "licensing",
+        "moral rights",
+        "economic rights"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Define literary and artistic works",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Define authorship and first ownership of copyright in literary and artistic works",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Define the term of copyright in literary and artistic works",
+          "isApplication": false
+        },
+        {
+          "letter": "d",
+          "text": "Define the right to be identified as the author or director",
+          "isApplication": false
+        },
+        {
+          "letter": "e",
+          "text": "Define the right to object to derogatory treatment of work",
+          "isApplication": false
+        },
+        {
+          "letter": "f",
+          "text": "Describe how copyright may be transferred or licensed",
+          "isApplication": false
+        },
+        {
+          "letter": "g",
+          "text": "Apply (a) to (h) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "cdpa-1",
+        "cdpa-2",
+        "cdpa-3",
+        "cdpa-4",
+        "cdpa-9",
+        "cdpa-10",
+        "cdpa-11",
+        "cdpa-12",
+        "cdpa-77",
+        "cdpa-80",
+        "cdpa-90",
+        "cdpa-91",
+        "cdpa-92"
+      ],
+      "cases": [
+        "waterrower-v-liking",
+        "cofemel-v-g-star"
+      ],
+      "sourceNote": "Source says 'Apply (a) to (h)' although outcomes run to (f). Transcribed faithfully."
+    },
+    {
+      "number": 15,
+      "slug": "infringement-of-copyright",
+      "title": "The law relating to infringement of copyright",
+      "ipregTopics": [
+        "Infringement",
+        "permitted acts"
+      ],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "List the acts which are restricted by copyright in a work",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Identify the acts which infringe copyright",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Define the permitted acts which do not infringe copyright",
+          "isApplication": false
+        },
+        {
+          "letter": "d",
+          "text": "Outline the criminal liability for making or dealing with infringing articles",
+          "isApplication": false
+        },
+        {
+          "letter": "e",
+          "text": "Apply (a) to (d) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "cdpa-16",
+        "cdpa-17",
+        "cdpa-18",
+        "cdpa-21",
+        "cdpa-22",
+        "cdpa-23",
+        "cdpa-24",
+        "cdpa-27",
+        "cdpa-28a",
+        "cdpa-29",
+        "cdpa-30",
+        "cdpa-30a",
+        "cdpa-36",
+        "cdpa-50a",
+        "cdpa-50b",
+        "cdpa-50c",
+        "cdpa-56",
+        "cdpa-76",
+        "cdpa-96",
+        "cdpa-101"
+      ],
+      "cases": []
+    },
+    {
+      "number": 16,
+      "slug": "eu-designs-post-brexit",
+      "title": "The law relating to EU registered designs (either registered or pending) and International Designs designating the EU at the end of the Brexit transition period",
+      "ipregTopics": [],
+      "learningOutcomes": [
+        {
+          "letter": "a",
+          "text": "Explain how registered EU designs are protected in the UK following Brexit",
+          "isApplication": false
+        },
+        {
+          "letter": "b",
+          "text": "Explain how International Designs designating the EU are protected in the UK following Brexit",
+          "isApplication": false
+        },
+        {
+          "letter": "c",
+          "text": "Explain how pending or unpublished EU design applications may be protected in the UK following Brexit",
+          "isApplication": false
+        },
+        {
+          "letter": "d",
+          "text": "Describe what a \"Continuing Design Right\" was and when such rights became extinct",
+          "isApplication": false
+        },
+        {
+          "letter": "e",
+          "text": "Apply (a) to (c) to a scenario",
+          "isApplication": true
+        }
+      ],
+      "provisions": [
+        "rda-sch-1a",
+        "rda-sch-1b",
+        "wa-art-54",
+        "wa-art-55",
+        "wa-art-56",
+        "wa-art-57",
+        "wa-art-59",
+        "wa-art-61"
+      ],
+      "cases": [],
+      "sourceNote": "Source says 'Apply (a) to (c)' although outcomes run to (d). Transcribed faithfully."
+    }
+  ],
+  "sourceDiscrepancies": [
+    {
+      "area": 6,
+      "syllabusSays": "RDR 35 - Fine for falsely representing a design as registered",
+      "actual": "RDA 1949 s.35 has that heading; RDR 2006 r.35 is 'Notice of rectification of the register'",
+      "resolution": "provision id corrected to rda-35",
+      "verifiedOn": "2026-09-01"
+    }
+  ]
+}

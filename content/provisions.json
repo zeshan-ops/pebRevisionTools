@@ -1,0 +1,1056 @@
+{
+  "generatedBy": "scripts/build_provisions.py",
+  "urlPatternsVerified": "2026-09-01 against legislation.gov.uk",
+  "provisions": [
+    {
+      "id": "berne-art-1",
+      "instrument": "Berne Convention",
+      "citation": "Berne art 1",
+      "title": "Berne Convention, Article 1",
+      "url": "https://www.wipo.int/wipolex/en/text/283698",
+      "titleVerified": false
+    },
+    {
+      "id": "berne-art-5",
+      "instrument": "Berne Convention",
+      "citation": "Berne art 5",
+      "title": "Berne Convention, Article 5",
+      "url": "https://www.wipo.int/wipolex/en/text/283698",
+      "titleVerified": false
+    },
+    {
+      "id": "cdpa-1",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.1",
+      "title": "Copyright and copyright works",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/1",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-10",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.10",
+      "title": "Works of joint authorship",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/10",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-101",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.101",
+      "title": "Rights and remedies of exclusive licensee",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/101",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-11",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.11",
+      "title": "First ownership of copyright",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/11",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-12",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.12",
+      "title": "Duration of copyright in literary, dramatic, musical or artistic works",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/12",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-16",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.16",
+      "title": "The acts restricted by copyright in a work",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/16",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-17",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.17",
+      "title": "Infringement of copyright by copying",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/17",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-18",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.18",
+      "title": "Infringement by issue of copies to the public",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/18",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-2",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.2",
+      "title": "Rights subsisting in copyright works",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/2",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-21",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.21",
+      "title": "Infringement by making adaptation or act done in relation to adaptation",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/21",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-213",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.213",
+      "title": "Design right",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/213",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-214",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.214",
+      "title": "The designer",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/214",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-215",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.215",
+      "title": "Ownership of design right",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/215",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-216",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.216",
+      "title": "Duration of design right",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/216",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-217",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.217",
+      "title": "Qualifying individuals and qualifying persons",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/217",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-218",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.218",
+      "title": "Qualification by reference to designer",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/218",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-219",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.219",
+      "title": "Qualification by reference to employer",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/219",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-22",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.22",
+      "title": "Secondary infringement: importing infringing copy",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/22",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-220",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.220",
+      "title": "Qualification by reference to first marketing",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/220",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-222",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.222",
+      "title": "Assignment and licences",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/222",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-223",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.223",
+      "title": "Prospective ownership of design right",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/223",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-225",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.225",
+      "title": "Exclusive licences",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/225",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-226",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.226",
+      "title": "Primary infringement of design right",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/226",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-227",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.227",
+      "title": "Secondary infringement: importing or dealing with infringing article",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/227",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-228",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.228",
+      "title": "Meaning of “infringing article”",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/228",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-229",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.229",
+      "title": "Rights and remedies of design right owner",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/229",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-23",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.23",
+      "title": "Secondary infringement: possessing or dealing with infringing copy",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/23",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-233",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.233",
+      "title": "Innocent infringement",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/233",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-234",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.234",
+      "title": "Rights and remedies of exclusive licensee",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/234",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-235",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.235",
+      "title": "Exercise of concurrent rights",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/235",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-236",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.236",
+      "title": "Infringement of copyright",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/236",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-237",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.237",
+      "title": "Licences available in last five years of design right",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/237",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-24",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.24",
+      "title": "Secondary infringement: providing means for making infringing copies",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/24",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-244a",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.244A",
+      "title": "Exception for private acts, experiments and teaching",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/244A",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-253",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.253",
+      "title": "Threats of infringement proceedings",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/253",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-254",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.254",
+      "title": "Licensee under licence of right not to claim connection with design right owner",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/254",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-27",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.27",
+      "title": "Meaning of “infringing copy”",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/27",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-28a",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.28A",
+      "title": "Making of temporary copies",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/28A",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-29",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.29",
+      "title": "Research and private study",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/29",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-3",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.3",
+      "title": "Literary, dramatic and musical works",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/3",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-30",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.30",
+      "title": "Criticism, review, quotation and news reporting",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/30",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-30a",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.30A",
+      "title": "Caricature, parody or pastiche",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/30A",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-36",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.36",
+      "title": "Copying and use of extracts of works by educational establishments",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/36",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-4",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.4",
+      "title": "Artistic works",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/4",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-50a",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.50A",
+      "title": "Back up copies",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/50A",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-50b",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.50B",
+      "title": "Decompilation",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/50B",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-50c",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.50C",
+      "title": "Other acts permitted to lawful users",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/50C",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-51",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.51",
+      "title": "Design documents and models",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/51",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-56",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.56",
+      "title": "Transfers of copies of works in electronic form",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/56",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-76",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.76",
+      "title": "Adaptations",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/76",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-77",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.77",
+      "title": "Right to be identified as author or director",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/77",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-80",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.80",
+      "title": "Right to object to derogatory treatment of work",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/80",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-9",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.9",
+      "title": "Authorship of work",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/9",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-90",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.90",
+      "title": "Assignment and licences",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/90",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-91",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.91",
+      "title": "Prospective ownership of copyright",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/91",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-92",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.92",
+      "title": "Exclusive licences",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/92",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-96",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA s.96",
+      "title": "Infringement actionable by copyright owner",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/section/96",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-copyright-general",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA 1988 Pt I",
+      "title": "Copyright, Designs and Patents Act 1988, Part I — Copyright",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/part/I",
+      "titleVerified": true
+    },
+    {
+      "id": "cdpa-designs-general",
+      "instrument": "Copyright, Designs and Patents Act 1988",
+      "citation": "CDPA 1988 Pt III",
+      "title": "Copyright, Designs and Patents Act 1988, Part III — Design right",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/48/part/III",
+      "titleVerified": true
+    },
+    {
+      "id": "eudr-art-20a",
+      "instrument": "Council Regulation (EC) 6/2002 (EUDR)",
+      "citation": "EUDR art 20a",
+      "title": "EU Design Regulation, Article 20a — repair clause",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2822",
+      "titleVerified": false
+    },
+    {
+      "id": "eudr-art-3",
+      "instrument": "Council Regulation (EC) 6/2002 (EUDR)",
+      "citation": "EUDR art 3",
+      "title": "EU Design Regulation, Article 3 — definitions",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R0006",
+      "titleVerified": false
+    },
+    {
+      "id": "eudr-art-37",
+      "instrument": "Council Regulation (EC) 6/2002 (EUDR)",
+      "citation": "EUDR art 37",
+      "title": "EU Design Regulation, Article 37",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R0006",
+      "titleVerified": false
+    },
+    {
+      "id": "eudr-arts-1-14",
+      "instrument": "Council Regulation (EC) 6/2002 (EUDR)",
+      "citation": "EUDR arts 1–14",
+      "title": "EU Design Regulation, Articles 1–14",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R0006",
+      "titleVerified": false
+    },
+    {
+      "id": "eudr-arts-19-21",
+      "instrument": "Council Regulation (EC) 6/2002 (EUDR)",
+      "citation": "EUDR arts 19–21",
+      "title": "EU Design Regulation, Articles 19–21",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R0006",
+      "titleVerified": false
+    },
+    {
+      "id": "hague-admin-instructions",
+      "instrument": "Hague Agreement (Geneva Act 1999)",
+      "citation": "Hague Admin Instructions",
+      "title": "Administrative Instructions for the Application of the Hague Agreement",
+      "url": "https://www.wipo.int/hague/en/legal_texts/",
+      "titleVerified": false
+    },
+    {
+      "id": "hague-art-17",
+      "instrument": "Hague Agreement (Geneva Act 1999)",
+      "citation": "Hague art 17",
+      "title": "Hague Agreement (Geneva Act 1999), Article 17",
+      "url": "https://www.wipo.int/wipolex/en/text/285259",
+      "titleVerified": false
+    },
+    {
+      "id": "hague-art-18",
+      "instrument": "Hague Agreement (Geneva Act 1999)",
+      "citation": "Hague art 18",
+      "title": "Hague Agreement (Geneva Act 1999), Article 18",
+      "url": "https://www.wipo.int/wipolex/en/text/285259",
+      "titleVerified": false
+    },
+    {
+      "id": "hague-art-3",
+      "instrument": "Hague Agreement (Geneva Act 1999)",
+      "citation": "Hague art 3",
+      "title": "Hague Agreement (Geneva Act 1999), Article 3",
+      "url": "https://www.wipo.int/wipolex/en/text/285259",
+      "titleVerified": false
+    },
+    {
+      "id": "hague-art-4",
+      "instrument": "Hague Agreement (Geneva Act 1999)",
+      "citation": "Hague art 4",
+      "title": "Hague Agreement (Geneva Act 1999), Article 4",
+      "url": "https://www.wipo.int/wipolex/en/text/285259",
+      "titleVerified": false
+    },
+    {
+      "id": "hague-art-5",
+      "instrument": "Hague Agreement (Geneva Act 1999)",
+      "citation": "Hague art 5",
+      "title": "Hague Agreement (Geneva Act 1999), Article 5",
+      "url": "https://www.wipo.int/wipolex/en/text/285259",
+      "titleVerified": false
+    },
+    {
+      "id": "hague-art-6",
+      "instrument": "Hague Agreement (Geneva Act 1999)",
+      "citation": "Hague art 6",
+      "title": "Hague Agreement (Geneva Act 1999), Article 6",
+      "url": "https://www.wipo.int/wipolex/en/text/285259",
+      "titleVerified": false
+    },
+    {
+      "id": "hague-arts-7-16",
+      "instrument": "Hague Agreement (Geneva Act 1999)",
+      "citation": "Hague arts 7–16",
+      "title": "Hague Agreement (Geneva Act 1999), Articles 7 to 16",
+      "url": "https://www.wipo.int/wipolex/en/text/285259",
+      "titleVerified": false
+    },
+    {
+      "id": "hague-common-regs",
+      "instrument": "Hague Agreement (Geneva Act 1999)",
+      "citation": "Hague Common Regs",
+      "title": "Common Regulations under the 1999 and 1960 Acts of the Hague Agreement",
+      "url": "https://www.wipo.int/hague/en/legal_texts/",
+      "titleVerified": false
+    },
+    {
+      "id": "paris-art-1",
+      "instrument": "Paris Convention",
+      "citation": "Paris art 1",
+      "title": "Paris Convention, Article 1",
+      "url": "https://www.wipo.int/wipolex/en/text/288514",
+      "titleVerified": false
+    },
+    {
+      "id": "paris-art-4",
+      "instrument": "Paris Convention",
+      "citation": "Paris art 4",
+      "title": "Paris Convention, Article 4 — right of priority",
+      "url": "https://www.wipo.int/wipolex/en/text/288514",
+      "titleVerified": false
+    },
+    {
+      "id": "rda-1",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.1",
+      "title": "Registration of designs",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/1",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-11",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.11",
+      "title": "Cancellation of registration",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/11",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-11za",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.11ZA",
+      "title": "Grounds for invalidity of registration",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/11ZA",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-11zb",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.11ZB",
+      "title": "Applications for declaration of invalidity",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/11ZB",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-11ze",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.11ZE",
+      "title": "Effect of cancellation or invalidation of registration",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/11ZE",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-14",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.14",
+      "title": "Registration of design where application for protection in convention country has been made",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/14",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-15a",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.15A",
+      "title": "The nature of registered designs",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/15A",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-15b",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.15B",
+      "title": "Assignment, &c of registered designs and applications for registered designs",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/15B",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-15c",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.15C",
+      "title": "Exclusive licences",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/15C",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-19",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.19",
+      "title": "Registration of assignments, etc",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/19",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-1b",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.1B",
+      "title": "Requirement of novelty and individual character",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/1B",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-1c",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.1C",
+      "title": "Designs dictated by their technical function",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/1C",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-1d",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.1D",
+      "title": "Designs contrary to public policy or morality",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/1D",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-2",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.2",
+      "title": "Proprietorship of designs",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/2",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-24a",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.24A",
+      "title": "Action for infringement",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24A",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-24b",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.24B",
+      "title": "Exemption of innocent infringer from liability",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24B",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-24c",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.24C",
+      "title": "Order for delivery up",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24C",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-24d",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.24D",
+      "title": "Order as to disposal of infringing articles, &c",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24D",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-24f",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.24F",
+      "title": "Rights and remedies of exclusive licensee",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24F",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-24g",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.24G",
+      "title": "Meaning of “infringing article”",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24G",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-26",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.26",
+      "title": "Threats of infringement proceedings",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/26",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-3",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.3",
+      "title": "Applications for registration",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/3",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-35",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.35",
+      "title": "Fine for falsely representing a design as registered",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/35",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-35za",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.35ZA",
+      "title": "Offence of unauthorised copying etc. of design in course of business",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/35ZA",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-3c",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.3C",
+      "title": "Date of registration of designs",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/3C",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-7",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.7",
+      "title": "Right given by registration",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/7",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-7a",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.7A",
+      "title": "Infringements of rights in registered designs",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/7A",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-7b",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.7B",
+      "title": "Right of prior use",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/7B",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-8",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.8",
+      "title": "Duration of right in registered design",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/8",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-8a",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.8A",
+      "title": "Restoration of lapsed right in design",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/8A",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-8b",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA s.8B",
+      "title": "Effect of order for restoration of right",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/8B",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-general",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA 1949",
+      "title": "Registered Designs Act 1949",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-sch-1a",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA Sch. 1A",
+      "title": "European Community registered designs",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/1A",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-sch-1b",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA Sch. 1B",
+      "title": "International designs",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/1B",
+      "titleVerified": true
+    },
+    {
+      "id": "rda-sch-a1",
+      "instrument": "Registered Designs Act 1949",
+      "citation": "RDA Sch. A1",
+      "title": "Grounds for refusal of registration in relation to emblems etc.",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/A1",
+      "titleVerified": true
+    },
+    {
+      "id": "rdr-11",
+      "instrument": "Registered Designs Rules 2006",
+      "citation": "RDR r.11",
+      "title": "Publication",
+      "url": "https://www.legislation.gov.uk/uksi/2006/1975/rule/11",
+      "titleVerified": true
+    },
+    {
+      "id": "rdr-12",
+      "instrument": "Registered Designs Rules 2006",
+      "citation": "RDR r.12",
+      "title": "Extension of duration of right in registered design",
+      "url": "https://www.legislation.gov.uk/uksi/2006/1975/rule/12",
+      "titleVerified": true
+    },
+    {
+      "id": "rdr-13",
+      "instrument": "Registered Designs Rules 2006",
+      "citation": "RDR r.13",
+      "title": "Restoration of a lapsed right in a design under section 8A",
+      "url": "https://www.legislation.gov.uk/uksi/2006/1975/rule/13",
+      "titleVerified": true
+    },
+    {
+      "id": "rdr-4",
+      "instrument": "Registered Designs Rules 2006",
+      "citation": "RDR r.4",
+      "title": "Applications",
+      "url": "https://www.legislation.gov.uk/uksi/2006/1975/rule/4",
+      "titleVerified": true
+    },
+    {
+      "id": "rdr-6",
+      "instrument": "Registered Designs Rules 2006",
+      "citation": "RDR r.6",
+      "title": "Partial disclaimers",
+      "url": "https://www.legislation.gov.uk/uksi/2006/1975/rule/6",
+      "titleVerified": true
+    },
+    {
+      "id": "rdr-7",
+      "instrument": "Registered Designs Rules 2006",
+      "citation": "RDR r.7",
+      "title": "Convention applications",
+      "url": "https://www.legislation.gov.uk/uksi/2006/1975/rule/7",
+      "titleVerified": true
+    },
+    {
+      "id": "rdr-8",
+      "instrument": "Registered Designs Rules 2006",
+      "citation": "RDR r.8",
+      "title": "Substantive and formal examination of application",
+      "url": "https://www.legislation.gov.uk/uksi/2006/1975/rule/8",
+      "titleVerified": true
+    },
+    {
+      "id": "rdr-general",
+      "instrument": "Registered Designs Rules 2006",
+      "citation": "RDR 2006",
+      "title": "Registered Designs Rules 2006",
+      "url": "https://www.legislation.gov.uk/uksi/2006/1975",
+      "titleVerified": true
+    },
+    {
+      "id": "wa-art-54",
+      "instrument": "EU Withdrawal Agreement (2019/C 384 I/01)",
+      "citation": "WA art 54",
+      "title": "Withdrawal Agreement, Title IV, Article 54",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12019W/TXT(02)",
+      "titleVerified": false
+    },
+    {
+      "id": "wa-art-55",
+      "instrument": "EU Withdrawal Agreement (2019/C 384 I/01)",
+      "citation": "WA art 55",
+      "title": "Withdrawal Agreement, Title IV, Article 55",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12019W/TXT(02)",
+      "titleVerified": false
+    },
+    {
+      "id": "wa-art-56",
+      "instrument": "EU Withdrawal Agreement (2019/C 384 I/01)",
+      "citation": "WA art 56",
+      "title": "Withdrawal Agreement, Title IV, Article 56",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12019W/TXT(02)",
+      "titleVerified": false
+    },
+    {
+      "id": "wa-art-57",
+      "instrument": "EU Withdrawal Agreement (2019/C 384 I/01)",
+      "citation": "WA art 57",
+      "title": "Withdrawal Agreement, Title IV, Article 57",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12019W/TXT(02)",
+      "titleVerified": false
+    },
+    {
+      "id": "wa-art-59",
+      "instrument": "EU Withdrawal Agreement (2019/C 384 I/01)",
+      "citation": "WA art 59",
+      "title": "Withdrawal Agreement, Title IV, Article 59",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12019W/TXT(02)",
+      "titleVerified": false
+    },
+    {
+      "id": "wa-art-61",
+      "instrument": "EU Withdrawal Agreement (2019/C 384 I/01)",
+      "citation": "WA art 61",
+      "title": "Withdrawal Agreement, Title IV, Article 61",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12019W/TXT(02)",
+      "titleVerified": false
+    }
+  ],
+  "cases": [
+    {
+      "id": "beverly-hills-teddy-bear",
+      "label": "Beverly Hills Teddy Bear Co v PMS International Group (C-728/19)",
+      "court": "CJEU",
+      "year": 2021,
+      "url": "https://curia.europa.eu/juris/liste.jsf?num=C-728/19",
+      "note": "Syllabus flags that following the amendment to EUDR art 110a(5) this may no longer be valid law."
+    },
+    {
+      "id": "cofemel-v-g-star",
+      "label": "Cofemel v G-Star Raw CV (C-683/17)",
+      "court": "CJEU",
+      "year": 2019,
+      "url": "https://curia.europa.eu/juris/liste.jsf?num=C-683/17",
+      "note": null
+    },
+    {
+      "id": "pepsico-v-grupo-promer",
+      "label": "PepsiCo Inc v Grupo Promer Mon Graphic SA (C-281/10 P)",
+      "court": "CJEU",
+      "year": 2011,
+      "url": "https://curia.europa.eu/juris/liste.jsf?num=C-281/10",
+      "note": "Approved in Samsung v Apple."
+    },
+    {
+      "id": "samsung-v-apple",
+      "label": "Samsung Electronics (UK) Ltd v Apple Inc [2012] EWHC 1882",
+      "court": "EWHC",
+      "year": 2012,
+      "url": "https://www.bailii.org/ew/cases/EWHC/Patents/2012/1882.html",
+      "note": "General approach of the courts to individual character."
+    },
+    {
+      "id": "waterrower-v-liking",
+      "label": "WaterRower (UK) Ltd v Liking Ltd (T/A Topiom) [2024] EWHC 2806",
+      "court": "EWHC",
+      "year": 2024,
+      "url": "https://www.bailii.org/ew/cases/EWHC/IPEC/2024/2806.html",
+      "note": "Works of artistic craftsmanship; read with Cofemel."
+    }
+  ]
+}
