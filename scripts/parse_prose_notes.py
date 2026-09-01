@@ -8,16 +8,26 @@ The document is already organised to the syllabus:
     Heading 3/4-> subsection within an outcome, usually a named provision
     Normal / List Paragraph -> body
 
-Styling is inconsistent in places: some outcomes are tagged Heading 3 rather
-than Heading 2. So an outcome boundary is any heading whose text starts with a
-letter in parens AND whose letter is the next expected one for that area -- the
-same contiguity guard the exam parser uses, for the same reason (prose contains
-"a)"-shaped strings).
+Styling is inconsistent: some outcomes are tagged Heading 3, and some are not
+headings at all -- area 12's outcome (c) is a plain Normal paragraph, and an
+earlier heading-only parser silently swallowed it into outcome (b), under-
+reporting coverage.
+
+So an outcome boundary is any paragraph, of any style, that
+  * starts with a letter in parens, AND
+  * carries the next expected letter for that area (the same contiguity guard
+    the exam parser uses -- prose contains "a)"-shaped strings), AND
+  * either is a heading, or reads like the syllabus's own wording for that
+    outcome (fuzzy match >= 0.55).
+
+The last clause is what stops a body-text list item being mistaken for an
+outcome while still catching a real outcome that was never styled as one.
 
 Output: content/notes/fc4-notes.json, plus a coverage report against
 content/syllabus/fc4.json.
 """
 import json, re, sys
+from difflib import SequenceMatcher
 from pathlib import Path
 import docx
 
@@ -27,6 +37,11 @@ DEST = ROOT / "content/notes/fc4-notes.json"
 
 AREA_RE = re.compile(r"^\s*(\d{1,2})\s*[-–—]")     # "12 - ", "9 – "
 OUTCOME_RE = re.compile(r"^\s*\(?([a-z])\)")                  # "a)", "(b)"
+
+def similar(a, b):
+    norm = lambda s: re.sub(r"[^a-z ]", " ", s.lower()).split()
+    return SequenceMatcher(None, " ".join(norm(a)), " ".join(norm(b))).ratio()
+
 
 def main():
     if not SRC.exists():
@@ -56,15 +71,23 @@ def main():
         if area is None:
             continue
 
-        # An outcome boundary: letter-prefixed heading, contiguous from 'a'.
-        if lvl in (2, 3, 4):
-            m = OUTCOME_RE.match(text)
-            expected = chr(ord("a") + len(area["outcomes"]))
-            if m and m.group(1) == expected:
+        # Outcome boundary: letter-prefixed, contiguous from 'a', and either a
+        # heading or a close match to the syllabus's own wording.
+        m = OUTCOME_RE.match(text)
+        expected = chr(ord("a") + len(area["outcomes"]))
+        if m and m.group(1) == expected and area["number"] in by_num:
+            syl_out = next((o for o in by_num[area["number"]]["learningOutcomes"]
+                            if o["letter"] == expected), None)
+            score = similar(text, syl_out["text"]) if syl_out else 0.0
+            if lvl in (2, 3, 4) or score >= 0.55:
                 outcome = {"letter": m.group(1), "docHeading": text,
+                           "styledAsHeading": lvl is not None,
+                           "syllabusMatch": round(score, 2),
                            "body": [], "subsections": []}
                 area["outcomes"].append(outcome)
                 continue
+
+        if lvl in (2, 3, 4):
             if outcome is not None:
                 outcome["subsections"].append({"heading": text, "body": []})
                 continue
@@ -107,7 +130,11 @@ def main():
                     for a in ([got] if got else [])
                     for o in a["outcomes"]
                     for e in o["body"] + [b for s2 in o["subsections"] for b in s2["body"]])
+        unstyled = [o["letter"] for o in (got["outcomes"] if got else [])
+                    if not o.get("styledAsHeading")]
         flag = f"  MISSING {','.join(missing)}" if missing else ""
+        if unstyled:
+            flag += f"  [recovered from body text: {','.join(unstyled)}]"
         print(f"    {s['number']:>2}  {len(have)}/{len(want)} outcomes  {words:>5} words{flag}")
         total_missing += [(s["number"], m) for m in missing]
     print(f"\n  outcomes with no notes: {len(total_missing)}")

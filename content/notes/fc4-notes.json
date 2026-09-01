@@ -11,6 +11,8 @@
         {
           "letter": "a",
           "docHeading": "a) Describe the rationale for the copyright system",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "man, just fuck off with this crap.",
@@ -22,6 +24,8 @@
         {
           "letter": "b",
           "docHeading": "b) Explain the general provisions under the Berne Convention for extending copyright protection internationally",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [],
           "subsections": [
             {
@@ -82,6 +86,8 @@
         {
           "letter": "a",
           "docHeading": "a) Explain what national, regional, and international protection is available for registered designs",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [],
           "subsections": [
             {
@@ -231,6 +237,8 @@
         {
           "letter": "b",
           "docHeading": "(b) Evaluate alternative ways in which a client’s rights in a design may be protected, including advising on strategic considerations for the creation of a portfolio of national and international design applications",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.01,
           "body": [],
           "subsections": [
             {
@@ -366,6 +374,8 @@
         {
           "letter": "c",
           "docHeading": "(c) Explain Community Design Right: requirements for subsistence, and term",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.92,
           "body": [],
           "subsections": [
             {
@@ -495,6 +505,8 @@
         {
           "letter": "d",
           "docHeading": "(d) Identify any grace periods for prior disclosures",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "12 months, as specified in CDR7(2)(a) and (b).",
@@ -506,6 +518,8 @@
         {
           "letter": "e",
           "docHeading": "(e) With reference to the Paris Convention, define the underlying principles for claiming priority for national and international applications",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "Well, duh - define",
@@ -517,6 +531,8 @@
         {
           "letter": "f",
           "docHeading": "f) Define who may file an International application",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "any national of a State that is a Contracting Party, or any national of a State that is a member of an intergovernmental organisation that is a Contracting Party, or anyone that has a domicile or a habitual residence in the territory of a contracting party, or anyone that has a real and effective commercial or industrial establishment in the territory of a Contracting Party.",
@@ -528,6 +544,8 @@
         {
           "letter": "g",
           "docHeading": "(g) Identify where an International (Hague) application must be filed and its contents",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "A Hague design application may be filed directly with the International Bureau (IB) of the World Intellectual Property Organization (WIPO) or indirectly through the office of the applicant’s Contracting Party.",
@@ -583,6 +601,8 @@
         {
           "letter": "h",
           "docHeading": "(h) Know key similarities and differences between registered design practice in UK, EU, USA, China, Japan and the Hague system",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "China and the US have “unity of designs” requirements, which means only one design per application.",
@@ -644,6 +664,8 @@
         {
           "letter": "a",
           "docHeading": "a) with reference to the provisions detailed on the right, compare the advantages and disadvantages of the different forms of protection for industrial designs within the UK",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [],
           "subsections": [
             {
@@ -749,6 +771,8 @@
         {
           "letter": "b",
           "docHeading": "(b) Explain the interaction between trade marks and the different forms of protection for industrial designs within the UK",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "This can fuck itself right the fuck off",
@@ -768,6 +792,8 @@
         {
           "letter": "a",
           "docHeading": "a) Define the requirements for a design to be registrable,, including: novelty, individual character, exclusions.",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "(See RDA 1, 1B, 1C, 1D and 2)",
@@ -883,6 +909,8 @@
         {
           "letter": "b",
           "docHeading": "b) Identify any grace periods for prior disclosures",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "RDA 1B Requirement of novelty and individual character",
@@ -1014,6 +1042,8 @@
         {
           "letter": "a",
           "docHeading": "(a) Describe how the proprietor of a registered design is determined",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "RDA 2 Proprietorship of designs",
@@ -1057,6 +1087,8 @@
         {
           "letter": "a",
           "docHeading": "(a) Describe how to make a design application, including a divisional application",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "RDA 3 – Application for registration",
@@ -1160,6 +1192,8 @@
         {
           "letter": "b",
           "docHeading": "(b) List the requirements for obtaining a filing date for an application",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "One must file:",
@@ -1339,6 +1373,8 @@
         {
           "letter": "c",
           "docHeading": "(c) Describe the procedure from filing through to registration, including any available extensions of time",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "See timeline below from the UK IPO (Webmarking of patented products – business guidance (publishing.service.gov.uk)). See RDR 6 (partial disclaimers), 7 (convention applications), 8 (substantive and formal examination), 9 (representation of design for publication), 10 (time limits under s3(5) and s3B), .. etc",
@@ -1418,6 +1454,8 @@
         {
           "letter": "d",
           "docHeading": "(d) Outline how publication may be delayed or deferred and the consequences of delaying or deferring",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "Newly filed (unobjectionable) designs will be registered as soon as is practically possible. Upon registration, the design will be published in the Designs Journal, and it will form part of the case details on the IPO website case enquiry page. Applicants must consent to the publication and registration of the design(s), as per Rule 4However, there may be circumstances where an applicant wishes to defer or delay the registration and publication of their design, for example, in order to further develop or market the product before the design is published. To facilitate this, application forms DF2A and DF2B contain boxes which enable an applicant to either:",
@@ -1449,6 +1487,8 @@
         {
           "letter": "e",
           "docHeading": "e) Explain the consequences of falsely representing a design as registered",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "section 35 of the RDA",
@@ -1488,6 +1528,8 @@
         {
           "letter": "f",
           "docHeading": "(f) Explain the procedure at the International Bureau concerning designation, correction of irregularities, publication, unity, refusal, registration, invalidation and recordal of changes for international designs",
+          "styledAsHeading": true,
+          "syllabusMatch": 1.0,
           "body": [
             {
               "text": "Article 7 – Designation Fees",
@@ -1699,6 +1741,8 @@
         {
           "letter": "a",
           "docHeading": "(a) Define the requirements for claiming priority when filing an application",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "Article 42 – Claiming Priority",
@@ -1762,6 +1806,8 @@
         {
           "letter": "b",
           "docHeading": "(b) Determine whether a later application can validly claim priority from an earlier application",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "[This is more like an exam question, GET BACK LATER] – 6 months",
@@ -1797,6 +1843,8 @@
         {
           "letter": "a",
           "docHeading": "(a) Define the term that a design is in force and describe the renewal process for maintaining the design",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "8 Duration of right in registered design",
@@ -1836,6 +1884,8 @@
         {
           "letter": "b",
           "docHeading": "b) Explain the restoration process and the implications of restoring a lapsed design",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "We’ve talked about restoration before, briefly. The below is what the law says",
@@ -1939,6 +1989,8 @@
         {
           "letter": "c",
           "docHeading": "c) Explain the implications of cancelling a UK design registration",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "11. Cancellation of registration",
@@ -1966,6 +2018,8 @@
         {
           "letter": "a",
           "docHeading": "(a) Describe how a registered design may be transferred or licensed",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "A registered design may be wholly or partially assigned. Assignment must be registered.",
@@ -2049,6 +2103,8 @@
         {
           "letter": "b",
           "docHeading": "(b) Explain the effect of registration of a transfer and the implications of non-registration",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "One of the implications of non-registration of transfer of design rights is alluded to by Rule 15(3) which states",
@@ -2068,6 +2124,8 @@
         {
           "letter": "c",
           "docHeading": "(c) Describe the rights of an exclusive licensee",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "15C Exclusive licences",
@@ -2087,6 +2145,8 @@
         {
           "letter": "d",
           "docHeading": "d) Describe the consequences of not recording a licence on the Register",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "TODO (d)",
@@ -2106,6 +2166,8 @@
         {
           "letter": "a",
           "docHeading": "(a) Identify the acts which infringe the right in a UK design registration",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "RDA 7 – Right given by registration",
@@ -2245,6 +2307,8 @@
         {
           "letter": "b",
           "docHeading": "(b) List the Statutory exceptions to infringement",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "7B – Right of prior use",
@@ -2320,6 +2384,8 @@
         {
           "letter": "c",
           "docHeading": "(c) Define who may bring an action for infringement",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "RDA 24A – Action for Infringement",
@@ -2423,6 +2489,8 @@
         {
           "letter": "d",
           "docHeading": "d) Describe the remedies which may be claimed and any limitations on the remedies",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "RDA 24C Order for delivery up",
@@ -2566,6 +2634,8 @@
         {
           "letter": "e",
           "docHeading": "e) Outline the limitations based on a prior use right",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "Pretty sure we looked at prior use above, see part 10.(b) above",
@@ -2577,6 +2647,8 @@
         {
           "letter": "f",
           "docHeading": "f) Explain when proceedings for a groundless threat of infringement may be brought in the UK",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "RDA 26 – Threats of Infringement Proceedings",
@@ -2700,6 +2772,8 @@
         {
           "letter": "g",
           "docHeading": "g) outline when the offence of unauthorised copying is committed",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "35ZA Offence of unauthorised copying etc. of design in course of business",
@@ -2815,6 +2889,8 @@
         {
           "letter": "h",
           "docHeading": "h) Describe the consequences of committing the offence (continues on from above)",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.8,
           "body": [
             {
               "text": "RDA 35ZA (8) A person guilty of an offence under this section is liable—",
@@ -2846,6 +2922,8 @@
         {
           "letter": "a",
           "docHeading": "(a) List the grounds of invalidity and who many file an application for declaration of invalidity",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "RDA 11ZA – Grounds of invalidity of registration",
@@ -3182,11 +3260,16 @@
             {
               "text": "(6)An application may be made under this section in relation to a design at any time after the design has been registered.",
               "bullet": false
-            },
-            {
-              "text": "b) Describe the consequences or effect of invalidation of the registration",
-              "bullet": false
-            },
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "letter": "b",
+          "docHeading": "b) Describe the consequences or effect of invalidation of the registration",
+          "styledAsHeading": false,
+          "syllabusMatch": 0.99,
+          "body": [
             {
               "text": "RDA 11ZE - Effect of cancellation or invalidation of registration.",
               "bullet": false
@@ -3213,6 +3296,8 @@
         {
           "letter": "a",
           "docHeading": "(a) Define requirements for (UK, continuing and supplementary) UDR to subsists",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.54,
           "body": [],
           "subsections": [
             {
@@ -3424,6 +3509,8 @@
         {
           "letter": "b",
           "docHeading": "(b) Explain how the term of an unregistered design right is determined (inc. UK, continuing and supplementary UDR)",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.91,
           "body": [
             {
               "text": "Unregistered design right. There are three such rights: UK unregistered design rights, continuing unregistered designs (CUD) and supplementary unregistered designs (SUD).",
@@ -3508,11 +3595,16 @@
             {
               "text": "For the purpose of paragraph 1, a design shall be deemed to have been made available to the public within the Community if it has been published, exhibited, used in trade or otherwise disclosed in such a way that, in the normal course of business, these events could reasonably have become known to the circles specialised in the sector concerned, operating within the Community. The design shall not, however, be deemed to have been made available to the public for the sole reason that it has been disclosed to a third person under explicit or implicit conditions of confidentiality.",
               "bullet": false
-            },
-            {
-              "text": "c) Describe how the proprietor of (UK, continuing and supplementary) unregistered design right is determined",
-              "bullet": false
-            },
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "letter": "c",
+          "docHeading": "c) Describe how the proprietor of (UK, continuing and supplementary) unregistered design right is determined",
+          "styledAsHeading": false,
+          "syllabusMatch": 0.93,
+          "body": [
             {
               "text": "Community Design Regulations – Article 14 – Rights to the Community Design",
               "bullet": false
@@ -3771,6 +3863,8 @@
         {
           "letter": "a",
           "docHeading": "(a) Identify the acts which infringe UK design right and the acts which do not infringe",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "“UK Design Right” means UK Unregistered Design Right (UKUDR)",
@@ -3826,6 +3920,8 @@
         {
           "letter": "a",
           "docHeading": "(a) Define literary and artistic works",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.97,
           "body": [
             {
               "text": "The Act characterizes “literary works” as “any work, other than a dramatic or musical work, which is written, spoken or sung”. This category should not be restricted to works of literature. As Peterson J put it, this category contains every “work which is expressed in print or writing, irrespectivce of the question whether the quality or style is high”.",
@@ -3873,6 +3969,8 @@
         {
           "letter": "b",
           "docHeading": "(b) define authorship and first ownership of copyright in literary and artistic work",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "The person who creates the work is the author of the work. For original literary, dramatic, musical, and artistic works, this is easy enough. For derivative works however, applying this principle is not so straightforward: who creates a sound recording?",
@@ -3980,6 +4078,8 @@
         {
           "letter": "c",
           "docHeading": "(c) Define the term of copyright in literary and artistic works",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "CDPA 12 - Duration of copyright in literary, dramatic, musical or artistic works.",
@@ -4091,6 +4191,8 @@
         {
           "letter": "d",
           "docHeading": "(d) define the right to be identified as the author or director",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "77 - Right to be identified as author or director.",
@@ -4354,6 +4456,8 @@
         {
           "letter": "e",
           "docHeading": "(e) Define the right to object to derogatory treatment of work",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "80 - Right to object to derogatory treatment of work.",
@@ -4601,6 +4705,8 @@
         {
           "letter": "f",
           "docHeading": "(f) Describe how copyright may be transferred or licensed",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [
             {
               "text": "90 - Assignment and licences.",
@@ -4680,6 +4786,8 @@
         {
           "letter": "a",
           "docHeading": "(a) List the acts which restricted by copyright in a work",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.95,
           "body": [],
           "subsections": [
             {
@@ -4716,6 +4824,8 @@
         {
           "letter": "b",
           "docHeading": "(b) Identify the acts which infringe copyright",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [],
           "subsections": [
             {
@@ -4848,6 +4958,8 @@
         {
           "letter": "c",
           "docHeading": "(c) Define the permitted acts which do not infringe copyright",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.98,
           "body": [],
           "subsections": [
             {
@@ -4913,6 +5025,8 @@
         {
           "letter": "d",
           "docHeading": "(d) Outline the criminal liability for making or dealing with infringing articles",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [],
           "subsections": [
             {
@@ -4962,6 +5076,8 @@
         {
           "letter": "a",
           "docHeading": "(a) Explain how registered EU designs are protected in the UK following Brexit",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "Community registered design right become what are known as “re-registered design rights” (see Article 54.1(b)).",
@@ -4999,6 +5115,8 @@
         {
           "letter": "b",
           "docHeading": "(b) Explain how International Designs designating the EU are protected in the UK following Brexit",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [],
           "subsections": [
             {
@@ -5024,6 +5142,8 @@
         {
           "letter": "c",
           "docHeading": "(c) Explain how pending or unpublished EU design applications may be protected in the UK following Brexit",
+          "styledAsHeading": true,
+          "syllabusMatch": 0.99,
           "body": [
             {
               "text": "Article 59 - Right of priority with respect to pending applications for European Union trade marks, Community designs and Community plant variety rights",

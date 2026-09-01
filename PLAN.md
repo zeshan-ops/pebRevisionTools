@@ -90,7 +90,7 @@ Link-checker script so dead links surface rather than rot. legislation.gov.uk de
 | 0 | Scaffold: Next.js, TS, Tailwind, shadcn, design tokens, SQLite |
 | 1 | ~~Syllabus data + Provision registry~~ **done** — remaining: link checker, `/content` routes |
 | 2 | Extraction pipeline + review UI; 2022 paper ingested |
-| 3 | Content section: area pages, MDX notes, search |
+| 3 | Content section: area pages merging prose + supplements + cards, card self-test, search |
 | 4 | Practice section: filters, progressive reveal, answer editor, mark scheme + examiner report |
 | 5 | Self-marking: checklist scoring, score display |
 | 6 | Polish |

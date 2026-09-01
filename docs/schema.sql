@@ -107,6 +107,23 @@ CREATE UNIQUE INDEX idx_categorisation_one_primary
 CREATE INDEX idx_categorisation_area   ON categorisation (area_slug);
 CREATE INDEX idx_categorisation_status ON categorisation (review_status);
 
+-- ------------------------------------------------------------- notes ------
+
+-- Content comes from three sources, all generated/authored as FILES, not rows:
+--   content/notes/fc4-notes.json       prose, keyed by area + learning outcome
+--   content/notes/fc4-cards.json       168 Q/A flashcards, keyed by area
+--   content/notes/supplements/*.mdx    hand-written gap fills, area + outcome
+-- Only per-card REVIEW STATE lives here, because only it is user data.
+
+CREATE TABLE card_review (
+  card_id     TEXT PRIMARY KEY,          -- 'card-001' -> fc4-cards.json
+  -- Self-test outcome, newest only. Deliberately coarse: this is a confidence
+  -- signal for surfacing weak areas, not a spaced-repetition scheduler.
+  confidence  TEXT NOT NULL CHECK (confidence IN ('again','hard','good','easy')),
+  reviewed_at TEXT NOT NULL DEFAULT (datetime('now')),
+  review_count INTEGER NOT NULL DEFAULT 1
+);
+
 -- -------------------------------------------------------- user data -------
 
 CREATE TABLE attempt (
@@ -155,6 +172,9 @@ FROM attempt a
 JOIN sub_question sq ON sq.id = a.sub_question_id
 LEFT JOIN self_mark sm ON sm.attempt_id = a.id
 GROUP BY a.id;
+
+-- Card confidence per area is computed in app code, not SQL: the card -> area
+-- mapping lives in fc4-cards.json, which SQLite does not see.
 
 -- Per-area performance, newest attempt only. Drives "where am I weak".
 CREATE VIEW area_performance AS

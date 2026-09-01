@@ -119,39 +119,69 @@ provisional and say so.
 
 ## Content area page
 
+Content comes from **three sources**, merged at render. None of them is prose to
+be invented — the material already exists and is already syllabus-shaped.
+
+| Source | Shape | Keyed by |
+|---|---|---|
+| `content/notes/fc4-notes.json` | Prose, ~27,300 words | area + learning outcome |
+| `content/notes/supplements/*.mdx` | Hand-written gap fills | area + outcome (frontmatter) |
+| `content/notes/fc4-cards.json` | 168 Q/A flashcards | area (proposed, reviewable) |
+
+Prose and supplements render **together under their learning outcome**, in
+outcome order, supplement after prose. Cards attach at area level.
+
 ```
 12 ── Supplementary unregistered design right
 ─────────────────────────────────────────────
-IPReg topics: Qualifying for protection · Ownership     sans, --ink-faint
+IPReg topics: Qualifying for protection · Ownership
 
-Learning outcomes
-☑ a) Define the requirements … to subsist
-☐ b) Explain how the term … is determined
-▣ g) Apply (a) to (f) to a scenario          ← --accent-soft tint (Section B skill)
+a) Define the requirements for … to subsist          ← outcome heading, serif
+   [ prose from fc4-notes.json ]
+   ├ a. Novelty          ← subsections preserved from the source doc
+   ├ b. Individual Character
+   └ c. Originality
+   [ supplement: "Originality and commonplace"  ⚑ unverified ]
 
-[ notes — MDX, serif, at --measure ]
+b) Explain how the term … is determined
+   [ prose ]
 
-Provisions
-CDPA s.213  Design right              ← mono chip + verified heading
-CDPA s.216  Duration of design right
+▣ g) Apply (a) to (f) to a scenario     ← --accent-soft; no prose, links to
+                                          the Section B questions in this area
 
-Cases
-WaterRower (UK) Ltd v Liking Ltd [2024] EWHC 2806
-
-Questions in this area                  ← from categorisation
-2022 Q8(a)   8 marks   ● complete   78%
-2022 Q5      9 marks   ○ not started
+Cards · 19                              ← collapsed; expand to self-test
+Provisions   CDPA s.213 · CDPA s.216 · …
+Questions in this area  2022 Q8(a) · 2022 Q5 · …
 ```
 
-Citation chips render from `content/provisions.json` by id. Never hand-write a
-citation in MDX — a `<Cite id="cdpa-213" />` component keeps every reference
-consistent and link-checked.
+An outcome with **no** prose, supplement or card shows an explicit gap marker.
+Do not render an empty section silently — a missing outcome is exactly what the
+user needs to see.
 
-Any content note statement not yet checked against the source renders with an
-`unverified` marker. This is not decoration: model knowledge of recent design
-law (Reg (EU) 2024/2822, *WaterRower*) is the least reliable part of this app.
+Some outcomes were recovered from body text rather than headings (the source
+`.docx` styles them inconsistently). `fc4-notes.json` records `styledAsHeading`
+and `syllabusMatch` per outcome; surface a quiet marker where
+`styledAsHeading` is false, since those attributions are the least certain.
 
-## Categorisation review queue
+### Card self-test
+
+Expanding the cards panel gives one card at a time: question, **Show answer**,
+then four confidence buttons writing `card_review` — `again / hard / good /
+easy`. Coarse by design: this is a signal for finding weak areas, not a
+scheduler. Spaced repetition stays out of scope.
+
+Card → area mapping is `proposed` from the source file's sub-topic headings and
+is correctable in the same review queue as question categorisation.
+
+### Verification markers
+
+Every supplement carries `verified: false` until checked. Model knowledge of
+recent design law is the least reliable part of this app, so the marker is
+functional, not decorative: it renders as a visible ⚑ with the frontmatter
+`sources` list on hover, and there is a one-click **Mark verified** that writes
+back to the file's frontmatter.
+
+## Categorisation review queue## Categorisation review queue
 
 `/review` lists sub-questions with `review_status = 'proposed'`, newest import
 first. Each row: question text, the model's proposed areas with confidence, and

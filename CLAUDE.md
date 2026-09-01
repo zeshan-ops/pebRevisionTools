@@ -19,6 +19,18 @@ scheme, examiner's report). The document grammar drifts between years — see
 `docs/extraction.md`, which records every variation found and the year that
 proved it.
 
+Notes loaded (source `.docx` local-only, parsed output tracked):
+
+| File | Contents |
+|------|----------|
+| `content/notes/fc4-notes.json` | Prose notes, ~27,300 words, 57/66 outcomes |
+| `content/notes/fc4-cards.json` | 168 Q/A flashcards across 4 topic files |
+| `content/notes/supplements/*.mdx` | Hand-written gap fills, `verified: false` |
+
+Merged, the two note sets cover **65 of 66** non-application outcomes. Regenerate
+with `scripts/parse_prose_notes.py` and `scripts/parse_notes.py` — both need
+`pypdf`/`python-docx` in a venv, and both print a coverage report.
+
 Data already built: `content/syllabus/fc4.json` (16 areas, 82 outcomes) and
 `content/provisions.json` (126 provisions, 102 titles verified against
 legislation.gov.uk). Regenerate the latter with `scripts/build_provisions.py`,
@@ -104,9 +116,12 @@ no PDF tooling on this machine — extract text with `pypdf` in a venv, not
 ## Commands
 
 ```bash
-python3 scripts/build_provisions.py    # rebuild citation registry from syllabus
-python3 scripts/verify_provisions.py   # re-verify titles against legislation.gov.uk
+python3 scripts/build_provisions.py     # rebuild citation registry from syllabus
+python3 scripts/verify_provisions.py    # re-verify titles against legislation.gov.uk
+python3 scripts/parse_prose_notes.py    # .docx prose notes -> JSON + coverage report
+python3 scripts/parse_notes.py          # .docx flashcards  -> JSON + coverage report
 ```
+The parse scripts need `python-docx`; the PDF work needs `pypdf`.
 Node commands land here at Phase 0.
 
 **No PDF tooling on this machine** — no poppler/pdftotext/mutool/qpdf, no GNU
