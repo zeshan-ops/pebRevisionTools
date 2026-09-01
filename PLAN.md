@@ -28,7 +28,7 @@ These drive the design and should not be re-derived:
 ## Stack
 
 - **Next.js (App Router) + TypeScript**
-- **Tailwind + shadcn/ui**
+- **Tailwind + shadcn/ui** — implemented as hand-written components in `components/` on Radix primitives (`@radix-ui/react-dialog`, `cmdk`, `class-variance-authority`, `clsx`/`tailwind-merge`), the same building blocks the shadcn CLI would scaffold, reskinned directly onto the tokens in `docs/design-system.md`. There is no `components.json` / shadcn CLI setup — the design is fully bespoke, so generating from shadcn's default theme and overriding it would have meant fighting two token systems.
 - **Content as MDX** in `content/` — git-versioned, diffable, hand-correctable
 - **SQLite (better-sqlite3)** for user data — answers, scores, progress, categorisation overrides. Gitignored.
 - **MiniSearch** — prebuilt client-side index
@@ -93,9 +93,9 @@ built immediately.
 
 | Phase | Deliverable | Blocked by |
 |-------|-------------|------------|
-| 0 | Scaffold: Next.js, TS, Tailwind, shadcn, design tokens, SQLite | — |
-| 1 | ~~Syllabus data + Provision registry~~ **done** — remaining: link checker, `/content` routes | 0 |
-| 3 | Content section: area pages merging prose + supplements + cards, card self-test, search | 0, 1 |
+| 0 | ~~Scaffold: Next.js, TS, Tailwind, design tokens, SQLite~~ **done** | — |
+| 1 | ~~Syllabus data + Provision registry + link checker + `/content` routes~~ **done** | 0 |
+| 3 | ~~Content section: area pages merging prose + supplements + cards, card self-test, search~~ **done** | 0, 1 |
 | 2 | Extraction pipeline + review UI; 2022-2024 papers ingested | 0 |
 | 4 | Practice section: filters, progressive reveal, answer editor, mark scheme + examiner report | 2 |
 | 5 | Self-marking: checklist scoring, score display | 4 |

@@ -4,7 +4,10 @@ A revision assistance tool for the **PEB exams** (Patent Examination Board — t
 
 ## Status
 
-Specified, not yet implemented. Read in this order:
+**Phases 0, 1 and 3 are built** (scaffold, citations, content section — see
+`PLAN.md`'s phase table). **Phase 2 (extraction) is next**, then 4, 5, 6.
+Run it with `npm run dev`. Read the specs in this order before changing
+anything:
 
 | Doc | What it settles |
 |-----|-----------------|
@@ -122,7 +125,16 @@ python3 scripts/parse_prose_notes.py    # .docx prose notes -> JSON + coverage r
 python3 scripts/parse_notes.py          # .docx flashcards  -> JSON + coverage report
 ```
 The parse scripts need `python-docx`; the PDF work needs `pypdf`.
-Node commands land here at Phase 0.
+```bash
+npm run dev          # Turbopack dev server, http://localhost:3000
+npm run build         # production build — also statically generates all 16 area pages
+npm run lint           # eslint
+npm run check:links    # fetches every citation URL in provisions.json, fails on non-2xx
+```
+
+The SQLite file lives at `data/app.db` (gitignored, created on first run — see
+`lib/db.ts`). Delete it to reset all local progress; the migration runner
+recreates the schema from `docs/schema.sql` on next boot.
 
 **No PDF tooling on this machine** — no poppler/pdftotext/mutool/qpdf, no GNU
 `timeout`, no `gh`. Extract PDF text with `pypdf` in a venv.
